@@ -13,7 +13,7 @@
 - Kotlin, Android basics.
 - Android SDK, Native Android Development.
 - Android Jetpack Arch “Livedata, Navigation & ViewModel”
-- Room and SQLite Database.
+- Room Database.
 - State Management "Provider", "Bloc"
 - Firebase and Firestore.
 - REST APIS
