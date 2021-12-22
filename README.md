@@ -1,9 +1,33 @@
-- 👋 Hi, I’m Ahmed Amer .
-- 👀 I’m interested in coding & programing & encryption
-- 🌱 I’m currently learning flutter
-- 💞️ I'm looking to collaborate on building a powerful systems
-- 📫 saqrelfirgany@gmail.com , +201025592065
+#  👋 Hi, I’m Ahmed Amer, Talented Developer.
+### 👀 Flutter Developer ,Good knowledge of native android apps by Kotlin.
+### 😊 Powerful on bug fixing and improving application performance.
+### 👌 Write clean, readable, and reusable code
+### 😎 Good background ->  Encryption Algorithms, Data Analysis
+### 📫 saqrelfirgany@gmail.com , +201025592065
  
+# Technical Skills
+
+- Solid understanding of programming concepts, Object Oriented Programming,
+- Data Structure, Problem Solving
+- Flutter, Dart
+- Kotlin, Android basics.
+- Android SDK, Native Android Development.
+- Android Jetpack Arch “Livedata, Navigation & ViewModel”
+- Room and SQLite Database.
+- State Management "Provider", "Bloc"
+- Firebase and Firestore.
+- REST APIS
+- Shared Preference Database
+- SQLlite
+- Localization
+- Animation
+
+
+#### My Projects "Flutter"
+- News Flutter App .> https://github.com/saqrelfirgany/news_flutter_app
+- 
+
+#### My Projects "Flutter"
 
 <!---
 saqrelfirgany/saqrelfirgany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
