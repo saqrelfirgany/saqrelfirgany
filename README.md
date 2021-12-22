@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmed Amer
+- 👋 Hi, I’m Ahmed Amer .
 - 👀 I’m interested in coding & programing & encryption
 - 🌱 I’m currently learning flutter
 - 💞️ I'm looking to collaborate on building a powerful systems
