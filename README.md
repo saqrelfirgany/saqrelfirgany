@@ -2,7 +2,7 @@
 ### 👀 Flutter Developer ,Good knowledge of native android apps by Kotlin.
 ### 😊 Powerful on bug fixing and improving application performance.
 ### 👌 Write clean, readable, and reusable code
-### 😎 Good background ->  Encryption Algorithms, Data Analysis
+### 😎 Good knowledge ->  Encryption Algorithms, Data Analysis
 ### 📫 saqrelfirgany@gmail.com , +201025592065
  
 # Technical Skills
@@ -19,7 +19,6 @@
 - REST APIS
 - Shared Preference Database
 - SQLlite
-- Localization
 - Animation
 
 
