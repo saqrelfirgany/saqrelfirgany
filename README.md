@@ -24,7 +24,7 @@
 
 #### My Projects "Flutter"
 - News Flutter App .> https://github.com/saqrelfirgany/news_flutter_app
-- 
+- Note Flutter App .> https://github.com/saqrelfirgany/Flutter-Note-App
 
 #### My Projects "Flutter"
 
