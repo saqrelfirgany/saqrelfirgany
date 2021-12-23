@@ -24,6 +24,8 @@
 
 #### My Projects "Flutter"
 
+- Chat Flutter App .> https://github.com/saqrelfirgany/Chat-Flutter-App
+- Shop Flutter App .> https://github.com/saqrelfirgany/Shop-Flutter-App
 - Tesla Flutter App .> https://github.com/saqrelfirgany/Tesla-Flutter-App
 - Tasks Flutter App .> https://github.com/saqrelfirgany/Tasks-Flutter-App
 - Facebook Flutter App .> https://github.com/saqrelfirgany/Flutter-Facebook-App
@@ -34,4 +36,6 @@
 
 #### My Native Projects "Kotlin"
 
-
+- Instagram Kotlin App .> https://github.com/saqrelfirgany/InstagramApp
+- Ecommerce Kotlin App .> https://github.com/saqrelfirgany/Ecommerce
+- Messenger Kotlin App .> https://github.com/saqrelfirgany/MessengerApp
