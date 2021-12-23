@@ -24,6 +24,7 @@
 
 #### My Projects "Flutter"
 
+- Tesla Flutter App .> https://github.com/saqrelfirgany/Tesla-Flutter-App
 - Tasks Flutter App .> https://github.com/saqrelfirgany/Tasks-Flutter-App
 - Facebook Flutter App .> https://github.com/saqrelfirgany/Flutter-Facebook-App
 - News Flutter App .> https://github.com/saqrelfirgany/news_flutter_app
@@ -31,9 +32,6 @@
 
 
 
-#### My Projects "Flutter"
+#### My Native Projects "Kotlin"
 
-<!---
-saqrelfirgany/saqrelfirgany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
