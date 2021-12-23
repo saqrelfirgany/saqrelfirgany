@@ -14,7 +14,7 @@
 - Android SDK, Native Android Development.
 - Android Jetpack Arch “Livedata, Navigation & ViewModel”
 - Room Database.
-- State Management "Provider", "Bloc"
+- State Management "Provider", "Bloc","GetX"
 - Firebase and Firestore.
 - REST APIS
 - Shared Preference Database
@@ -23,8 +23,13 @@
 
 
 #### My Projects "Flutter"
+
+- Tasks Flutter App .> https://github.com/saqrelfirgany/Tasks-Flutter-App
+- Facebook Flutter App .> https://github.com/saqrelfirgany/Flutter-Facebook-App
 - News Flutter App .> https://github.com/saqrelfirgany/news_flutter_app
 - Note Flutter App .> https://github.com/saqrelfirgany/Flutter-Note-App
+
+
 
 #### My Projects "Flutter"
 
