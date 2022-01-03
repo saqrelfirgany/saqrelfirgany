@@ -14,7 +14,7 @@
 - Android SDK, Native Android Development.
 - Android Jetpack Arch “Livedata, Navigation & ViewModel”
 - Room Database.
-- State Management "Provider", "Bloc","GetX"
+- State Management "Provider","GetX"
 - Firebase and Firestore.
 - REST APIS
 - Shared Preference Database
@@ -24,15 +24,12 @@
 
 #### My Projects "Flutter"
 
+- Ecommerce Using GetX .> https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
 - E-Commerce Flutter App .> https://github.com/saqrelfirgany/E-Commerce-Flutter-App
 - Chat Flutter App .> https://github.com/saqrelfirgany/Chat-Flutter-App
 - Shop Flutter App .> https://github.com/saqrelfirgany/Shop-Flutter-App
 - Tesla Flutter App .> https://github.com/saqrelfirgany/Tesla-Flutter-App
 - Tasks Flutter App .> https://github.com/saqrelfirgany/Tasks-Flutter-App
-- Facebook Flutter App .> https://github.com/saqrelfirgany/Flutter-Facebook-App
-- News Flutter App .> https://github.com/saqrelfirgany/news_flutter_app
-- Note Flutter App .> https://github.com/saqrelfirgany/Flutter-Note-App
-
 
 
 #### My Native Projects "Kotlin"
