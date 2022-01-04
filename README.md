@@ -3,7 +3,7 @@
 ### 😊 Powerful on bug fixing and improving application performance.
 ### 👌 Write clean, readable, and reusable code
 ### 😎 Good knowledge ->  Encryption Algorithms, Data Analysis
-### 📫 saqrelfirgany@gmail.com , +201025592065
+### 📫 saqrelfirgany@gmail.com , +201025592065 , LinkedIn .> https://www.linkedin.com/in/sa2r-elfirgany/
  
 # Technical Skills
 
