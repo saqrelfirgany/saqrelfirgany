@@ -1,11 +1,9 @@
-#  👋 Hi, I’m Ahmed Amer, Talented Developer.
-### 👀 Flutter Developer ,Good knowledge of native android apps by Kotlin.
-### 😊 Powerful on bug fixing and improving application performance.
-### 👌 Write clean, readable, and reusable code
-### 😎 Good knowledge ->  Encryption Algorithms, Data Analysis
+#  👋 Hi, I’m Ahmed Amer, Software Developer.
+### 👀 Flutter Developer ,excellent knowledge in native Kotlin development.
 ### 📫 saqrelfirgany@gmail.com ,+201025592065 ,LinkedIn: https://www.linkedin.com/in/sa2r-elfirgany/
  
-# Technical Skills
+# Proficiency Skills
+## Skill Level: Professional
 
 - Solid understanding of programming concepts, Object Oriented Programming,
 - Data Structure, Problem Solving
