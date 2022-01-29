@@ -5,8 +5,7 @@
 # Proficiency Skills
 ## Skill Level: Professional
 
-- Solid understanding of programming concepts, Object Oriented Programming,
-- Data Structure, Problem Solving
+- Flutter - Dart
 - Flutter, Dart
 - Kotlin, Android basics.
 - Android SDK, Native Android Development.
