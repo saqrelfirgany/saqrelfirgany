@@ -5,18 +5,31 @@
 # Proficiency Skills
 ## Skill Level: Professional
 
-- Flutter - Dart
-- Flutter, Dart
-- Kotlin, Android basics.
-- Android SDK, Native Android Development.
-- Android Jetpack Arch “Livedata, Navigation & ViewModel”
-- Room Database.
-- State Management "Provider","GetX"
-- Firebase and Firestore.
+- Flutter 
+- Dart
+- GetX
+- Provider
+- Object Oriented Programming
+- Data Structure
+- Problem Solving
+- Algorithm
+- Kotlin
+- Android SDK
+- Android Jetpack
+- Room Database
+- Firebase
+- Firestore
 - REST APIS
-- Shared Preference Database
+- Shared Preference
 - SQLlite
 - Animation
+- 
+## Skill Level: Intermediate
+- Python
+- Data analysis
+- C++
+- Encryption Algorithms
+- Network
 
 
 #### My Projects "Flutter"
