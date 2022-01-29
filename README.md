@@ -23,7 +23,7 @@
 - Shared Preference
 - SQLlite
 - Animation
-- 
+
 ## Skill Level: Intermediate
 - Python
 - Data analysis
