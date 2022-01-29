@@ -32,7 +32,7 @@
 - Network
 
 
-### Some of my work: "Flutter"
+### Some Flutter Projects
 
 ##### Ecommerce Using GetX  https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
 > Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
