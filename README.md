@@ -35,7 +35,7 @@
 #### Some of my work: "Flutter"
 
 - Ecommerce Using GetX .> https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
--Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
+- Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
 - E-Commerce Flutter App .> https://github.com/saqrelfirgany/E-Commerce-Flutter-App
 - Chat Flutter App .> https://github.com/saqrelfirgany/Chat-Flutter-App
 - Shop Flutter App .> https://github.com/saqrelfirgany/Shop-Flutter-App
