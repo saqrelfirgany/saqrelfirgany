@@ -39,6 +39,8 @@
 - E-Commerce Flutter App .> https://github.com/saqrelfirgany/E-Commerce-Flutter-App
 - Chat Flutter App .> https://github.com/saqrelfirgany/Chat-Flutter-App
 - Shop Flutter App .> https://github.com/saqrelfirgany/Shop-Flutter-App
+> Providers & Proxy Provider State Management, Firebase, Managing the Auth Token Locally, HTTP Requests & POST Requests, PATCH Requests.
+
 - Tesla Flutter App .> https://github.com/saqrelfirgany/Tesla-Flutter-App
 - Tasks Flutter App .> https://github.com/saqrelfirgany/Tasks-Flutter-App
 
