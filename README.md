@@ -33,7 +33,7 @@
 
 
 ### Some Flutter Projects
-##### -----------------------------------------------------------------------------------------------
+##### ------------------------------------------------------------------------
 > Currently working on this project.
 ##### Ecommerce Using GetX  https://github.com/saqrelfirgany/food_flutter_app
 > .
@@ -58,7 +58,7 @@
 
 
 ### Some Native Kotlin Projects
-
+##### ------------------------------------------------------------------------
 ##### Instagram Kotlin App  https://github.com/saqrelfirgany/InstagramApp
 > Social media app users can upload posts, like, Comments Follow, Stories and save images.
 
