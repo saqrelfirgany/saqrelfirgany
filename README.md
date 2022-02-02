@@ -34,6 +34,10 @@
 
 ### Some Flutter Projects
 
+> Currently working on this project.
+##### Ecommerce Using GetX  https://github.com/saqrelfirgany/food_flutter_app
+> .
+
 ##### Ecommerce Using GetX  https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
 > Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
 
