@@ -36,13 +36,13 @@
 ##### ------------------------------------------------------------------------
 > Currently working on this project.
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
-> .
+
 
 ##### Ecommerce Using GetX  https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
 > Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
 
 ##### E-Commerce App  https://github.com/saqrelfirgany/E-Commerce-Flutter-App
-> .
+> UI
 
 ##### Chat App  https://github.com/saqrelfirgany/Chat-Flutter-App
 > Authentication & Logout Functionality using Provider and Firebase, Stream Data with Stream Builder, Push Notifications. Firebase Cloud Messaging.
@@ -51,7 +51,7 @@
 > Providers & Proxy Provider State Management, Firebase, Managing the Auth Token Locally, HTTP Requests & POST Requests, PATCH Requests.
 
 ##### Tesla App  https://github.com/saqrelfirgany/Tesla-Flutter-App
-> .
+> Animation
 
 ##### Tasks App  https://github.com/saqrelfirgany/Tasks-Flutter-App
 > Getx State Management, Dynamic Theme Change - Local Push Notification, SQLite & Sqflite CRUD With Local Scheduled Notifications.
