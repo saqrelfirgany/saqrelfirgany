@@ -37,6 +37,10 @@
 > Currently working on this project.
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
 
+## ------------------------------------------------------------------------
+##### Basic MoviesDB Client Flutter App https://github.com/saqrelfirgany/Basic-TMDB-Client
+> TMDB is a popular movies database. It allows the user to search, view, filter, rate, and group movies.
+
 ##### --------------------------------------------
 ##### Ecommerce Using GetX  https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
 > Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
