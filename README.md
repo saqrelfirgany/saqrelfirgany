@@ -1,7 +1,9 @@
 #  👋 Hi, I’m Ahmed Amer, Software Developer.
 ### 👌 Flutter Developer, Excellent knowledge in native Kotlin development.
 ### 📫 saqrelfirgany@gmail.com ,+201025592065 ,LinkedIn: https://www.linkedin.com/in/sa2r-elfirgany/
- <hr>
+
+<hr>
+ 
 # Proficiency Skills
 ## Skill Level: Professional
 
@@ -24,6 +26,8 @@
 - SQLlite
 - Animation
 
+<hr>
+
 ## Skill Level: Intermediate
 - Python
 - Data analysis
@@ -31,7 +35,7 @@
 - Encryption Algorithms
 - Network
 
-
+<hr>
 ### Some Flutter Projects
 ## ------------------------------------------------------------------------
 > Currently working on this project.
