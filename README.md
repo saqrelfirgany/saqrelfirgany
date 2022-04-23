@@ -2,14 +2,26 @@
 
 - Software Developer
 - Flutter Developer
-- Excellent knowledge in native Kotlin development
-
+- Excellent Knowledge In Native Kotlin Development
+- Data Analysis Background
+- Encryption Algorithms Background
 
 ### 👌 Flutter Developer, Excellent knowledge in native Kotlin development.
 ### 📫 saqrelfirgany@gmail.com ,+201025592065 ,LinkedIn: https://www.linkedin.com/in/sa2r-elfirgany/
 
-<hr>
- 
+<h2> Contact with me on </h2>
+
+- Email : saqrelfirgany@gmail.com
+
+<p>
+<a href="http://Wa.me/201025592065" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+<a href="https://www.facebook.com/SaqrElFirgany/" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+</a> <a href="https://www.linkedin.com/in/sa2r-elfirgany/" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+
 # Proficiency Skills
 ## Skill Level: Professional
 
