@@ -21,8 +21,6 @@
 
 <h2> Samples from my projects </h2>
 
-<hr>
-
 ### Some Flutter Projects
 <hr>
 > Currently working on this project.
