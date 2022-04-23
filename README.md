@@ -19,18 +19,21 @@
 <img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p>
 
-<h2> Samples from my projects </h2>
+<h2> Samples From My Projects </h2>
 
-### Some Flutter Projects
-<hr>
+### Flutter Projects
+
 > Currently working on this project.
+
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
 
-## ------------------------------------------------------------------------
+<hr>
+
 ##### Basic MoviesDB Client Flutter App https://github.com/saqrelfirgany/Basic-TMDB-Client
 > TMDB is a popular movies database. It allows the user to search, view, filter, rate, and group movies.
 
-##### --------------------------------------------
+<hr>
+
 ##### Ecommerce Using GetX  https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
 > Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
 
