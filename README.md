@@ -1,5 +1,4 @@
-#  👋 Hi, I’m Ahmed Amer, Software Developer.
-<h2> Hi there, I’m Ahmed Aamer 👋:heart: </h2>
+<h2>👋:heart: Hi there, I’m Ahmed Aamer  </h2>
 - Software Developer
 - Flutter Developer
 ### 👌 Flutter Developer, Excellent knowledge in native Kotlin development.
