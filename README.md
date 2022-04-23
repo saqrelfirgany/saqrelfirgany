@@ -19,41 +19,12 @@
 <img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p>
 
-# Proficiency Skills
-## Skill Level: Professional
-
-- Flutter 
-- Dart
-- GetX
-- Provider
-- Object Oriented Programming
-- Data Structure
-- Problem Solving
-- Algorithm
-- Kotlin
-- Android SDK
-- Android Jetpack
-- Room Database
-- Firebase
-- Firestore
-- REST APIS
-- Shared Preference
-- SQLlite
-- Animation
-
-<hr>
-
-## Skill Level: Intermediate
-- Python
-- Data analysis
-- C++
-- Encryption Algorithms
-- Network
+<h2> Samples from my projects </h2>
 
 <hr>
 
 ### Some Flutter Projects
-## ------------------------------------------------------------------------
+<hr>
 > Currently working on this project.
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
 
