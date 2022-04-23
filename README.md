@@ -23,9 +23,9 @@
 
 ### Flutter Projects
 
-> Currently working on this project.
-
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
+
+> Currently working on this project.
 
 <hr>
 
@@ -37,36 +37,47 @@
 ##### Ecommerce Using GetX  https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
 > Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
 
-##### --------------------------------------------
+<hr>
+
 ##### E-Commerce App  https://github.com/saqrelfirgany/E-Commerce-Flutter-App
 > UI
 
-##### --------------------------------------------
+
+<hr>
+
 ##### Chat App  https://github.com/saqrelfirgany/Chat-Flutter-App
 > Authentication & Logout Functionality using Provider and Firebase, Stream Data with Stream Builder, Push Notifications. Firebase Cloud Messaging.
 
-##### --------------------------------------------
+
+<hr>
+
 ##### Shop App  https://github.com/saqrelfirgany/Shop-Flutter-App
 > Providers & Proxy Provider State Management, Firebase, Managing the Auth Token Locally, HTTP Requests & POST Requests, PATCH Requests.
 
 ##### Tesla App  https://github.com/saqrelfirgany/Tesla-Flutter-App
 > Animation
 
-##### --------------------------------------------
+
+<hr>
+
 ##### Tasks App  https://github.com/saqrelfirgany/Tasks-Flutter-App
 > Getx State Management, Dynamic Theme Change - Local Push Notification, SQLite & Sqflite CRUD With Local Scheduled Notifications.
 
 
-### Some Native Kotlin Projects
-### ------------------------------------------------------------------------
+### Native Kotlin Projects
+
 ##### Instagram App  https://github.com/saqrelfirgany/InstagramApp
 > Social media app users can upload posts, like, Comments Follow, Stories and save images.
 
-##### --------------------------------------------
+
+<hr>
+
 ##### Ecommerce App  https://github.com/saqrelfirgany/Ecommerce
 > Demo app, Technologies: Retrofit2, Image Cropper, Card View
 
-##### --------------------------------------------
+
+<hr>
+
 ##### Messenger App  https://github.com/saqrelfirgany/MessengerApp
 > Demo app, Technologies: Fragment, Firebase, Picasso RecyclerView
 
