@@ -6,9 +6,6 @@
 - Data Analysis Background
 - Encryption Algorithms Background
 
-### 👌 Flutter Developer, Excellent knowledge in native Kotlin development.
-### 📫 saqrelfirgany@gmail.com ,+201025592065 ,LinkedIn: https://www.linkedin.com/in/sa2r-elfirgany/
-
 <h2> Contact with me on </h2>
 
 - Email : saqrelfirgany@gmail.com
