@@ -1,4 +1,7 @@
 #  👋 Hi, I’m Ahmed Amer, Software Developer.
+<h2> Hi there, I’m Ahmed Aamer 👋:heart: </h2>
+- Software Developer
+- Flutter Developer
 ### 👌 Flutter Developer, Excellent knowledge in native Kotlin development.
 ### 📫 saqrelfirgany@gmail.com ,+201025592065 ,LinkedIn: https://www.linkedin.com/in/sa2r-elfirgany/
 
