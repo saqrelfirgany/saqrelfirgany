@@ -25,7 +25,7 @@
 
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
 
-> Currently working on this project.
+> Clean Structure, Getx, Real API, Responsive UI.
 
 <hr>
 
