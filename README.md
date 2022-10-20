@@ -19,7 +19,7 @@
 
 <hr>
 
-<h2> Samples from my projects </h2>
+<h2> Samples From My Projects </h2>
 
 ### Tia Driver
 Tia Driver app – the app for drivers.
@@ -94,6 +94,8 @@ The joys of shopping for kids.
  <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
+
+<h2> Open Source Projects </h2>
 
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
 
