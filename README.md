@@ -41,11 +41,31 @@ Tia uses great vehicle quality but at a much cheaper rate to make it more afford
 تطبيق BHR بحر ، يضم كل مايتعلق في البحر من خدمات، معلومات، متاجر للمنتجات المستعملة و الجديدة وايضاً يمكن من خلاله حجز رحلات، ودورات تدريبية ونشاطات بحرية ،
 
 بسرعة وسهولة و امان تام.
-<p><a href="https://play.google.com/store/apps/details?id=com.ebtasm.bhr" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-  <a href="https://apps.apple.com/us/app/bhr/id1641237623" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.ebtasm.bhr" target="_blank">
+ <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+ <a href="https://apps.apple.com/us/app/bhr/id1641237623" target="_blank">
+ <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
+### Mazadi
+تطبيق متخصص في المزاد على المنتجات ، حيث يتم المزاد عبر الإنترنت ،
+
+ويمكن لكل عميل المزايدة بالمبلغ الذي يريده ، وفي نهاية المزاد ،
+
+يتم إرسال رسالة إلى المستخدم الذي ربح بمعلومات البائع ليتم الاتصال به
+
+يتيح التطبيق أيضًا للمستخدمين إضافة إعلانات شخصية وإضافة العناصر المفقودة والمعثور عليها
+
+كما يتيح التطبيق للشركات إضافة إعلاناتها الخاصة بعد موافقة مسؤول التطبيق.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.ebtasm.mazadi" target="_blank">
+ <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+ <a href="https://apps.apple.com/us/app/mazadi/id1602820215" target="_blank">
+ <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 
 
