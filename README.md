@@ -17,9 +17,18 @@
 <img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p>
 
-<h2> Samples From My Projects </h2>
+<hr>
 
-### Flutter Projects
+<h2> Samples from my projects </h2>
+
+### Tia Driver
+Tia Driver app – the app for drivers.
+
+Help as you move people and things where they need to go. Drive whenever you want — no offices, no bosses. Wherever you want to go, we want you to enjoy the journey and the destination.
+Sign up to drive inside the Tia Driver app. We will guide you through the steps and notify you when you are all set to drive.
+<p> <a href="https://apps.apple.com/eg/app/tia-driver-app/id1603879320" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
 
