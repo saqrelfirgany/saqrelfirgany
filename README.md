@@ -30,6 +30,13 @@ Sign up to drive inside the Tia Driver app. We will guide you through the steps 
 
 <hr>
 
+### Tia Driver
+Tia is a ridesharing app for fast, reliable rides in minutes – day or night. There is no need to park or wait for a taxi or bus. With Tia, you just tap to request a ride, and it is easy to pay with a credit/debit card or other online payment modes.
+Tia uses great vehicle quality but at a much cheaper rate to make it more affordable for riders.
+<p> <a href="https://apps.apple.com/eg/app/tia-user/id1603893373" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
 
 > Clean Structure, Getx, Real API, Responsive UI.
