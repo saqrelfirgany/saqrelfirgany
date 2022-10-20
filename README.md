@@ -67,7 +67,33 @@ Tia uses great vehicle quality but at a much cheaper rate to make it more afford
 
 <hr>
 
+### Coffee And Tea
+We specialize in selling coffee and tea utensils
 
+Distinctive and modern coffee cups with the latest models and decorations
+
+Tea cups with distinctive and attractive designs
+
+We have many different types and sizes
+
+Our prices are competitive and the quality of our products is high.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.ebtasm.coffeetea" target="_blank">
+ <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+ <a href="https://apps.apple.com/us/app/coffee-and-tea/id1619178774" target="_blank">
+ <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Hisn Alatfal
+The joys of shopping for kids.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.ebtasm.kids_castle" target="_blank">
+ <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+ <a href="https://apps.apple.com/us/app/hisn-alatfal/id1629217103" target="_blank">
+ <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
 
