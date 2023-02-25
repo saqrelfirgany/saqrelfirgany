@@ -1,7 +1,7 @@
 <h2>👋:heart: Hi there, I’m Ahmed Aamer  </h2>
 
 - Software Engineer
-- Flutter Developer
+- Flutter Developer (Android, iOS, Desktop, Web)
 - Excellent Knowledge In Native Kotlin Development
 - Data Analysis Background
 - Encryption Algorithms Background
