@@ -20,15 +20,26 @@
 <hr>
 
 <h2> Samples From My Projects </h2>
+### Adam Pharmacy
+
+An easy way to shop for medical supplies from our pharmacy branches in the KSA and have them delivered to your doorstep.
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.namaait.adampharmacy" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+<a href="https://apps.apple.com/eg/app/adam-pharmacy/id1672276218" target="_blank">
+<img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<hr>
 
 ### Approved KSA
 
 APPROVED is a complete digital artificial based medical diagnosis including web-based solution, capable to integrate with different Hospital Information System.
 
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.namaait.approved" target="_blank">
- <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-
+<a href="https://play.google.com/store/apps/details?id=com.namaait.approved" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+<a href="https://apps.apple.com/eg/app/approved-ksa/id1668993553" target="_blank">
+<img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 <hr>
 
 ### Tia Driver
