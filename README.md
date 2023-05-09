@@ -1,36 +1,16 @@
-<h2>👋:heart: Hi there, I’m Ahmed Aamer  </h2>
+<h1 align=“center”>👋:heart: Hi there, I’m Ahmed Aamer</h1>
 
-- Software Engineer
-- Flutter Developer (Android, iOS, Desktop, Web)
-- Excellent Knowledge In Native Kotlin Development
-- Data Analysis Background
-- Encryption Algorithms Background
+<h3 align=“center”>A passionate software engineer and Flutter developer</h3>
 
-<h2> Contact with me on </h2>
+<p align=“center”> <a href=“https://github.com/saqrelfirgany” target=“_blank”> <img alt=“GitHub Profile Views” src=“https://komarev.com/ghpvc/?username=saqrelfirgany&color=blueviolet&style=flat-square” /> </a> <a href=“https://github.com/saqrelfirgany?tab=followers” target=“_blank”> <img alt=“GitHub Followers” src=“https://img.shields.io/github/followers/saqrelfirgany?color=blueviolet&style=flat-square” /> </a> </p>
 
-- Email : saqrelfirgany@gmail.com
+🔭 I’m currently working on Adam Pharmacy and Approved KSA projects
+🌱 I have excellent knowledge in native Kotlin development, data analysis, and encryption algorithms
+📫 How to reach me: saqrelfirgany@gmail.com
+⚡ Fun fact: I love reading books and playing chess
+<h3 align=“center”>Connect with me:</h3> <p align=“center”> <a href=“http://Wa.me/201025592065” target=“_blank”> <img alt=“WhatsApp” src=“https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white” /> </a> <a href=“https://www.linkedin.com/in/sa2r-elfirgany/” target=“_blank”> <img alt=“LinkedIn” src=“https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white” /> </a> <a href=“https://twitter.com/saqrelfirgany” target=“_blank”> <img alt=“Twitter” src=“https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white” /> </a> </p>
 
-<p>
-<a href="http://Wa.me/201025592065" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-</a> <a href="https://www.linkedin.com/in/sa2r-elfirgany/" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<p>
-
-<hr>
-
-<h2> Samples From My Projects </h2>
-
-### Adam Pharmacy
-
-An easy way to shop for medical supplies from our pharmacy branches in the KSA and have them delivered to your doorstep.
-
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.namaait.adampharmacy" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<a href="https://apps.apple.com/eg/app/adam-pharmacy/id1672276218" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<hr>
+<h3 align=“center”>Languages and tools:</h3> <p align=“center”> <a href=“https://dart.dev/” target=“_blank”> <img alt=“Dart” src=“https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white” /> </a> <a href=“https://flutter.dev/” target=“_blank”> <img alt=“Flutter” src=“https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white” /> </a> <a href=“https://kotlinlang.org/” target=“_blank”> <img alt=“Kotlin” src=“https://img.shields.io/badge/kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white” /> </a> <a href=“https://www.python.org/” target=“_blank”> <img alt=“Python” src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=
 
 ### Approved KSA
 
