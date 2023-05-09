@@ -19,7 +19,9 @@
 
 <hr>
 
-<h2> Samples From My Projects </h2>
+<h2> My Projects </h2>
+
+## NamaaIT Projects
 
 ### Adam Pharmacy
 
@@ -42,6 +44,8 @@ APPROVED is a complete digital artificial based medical diagnosis including web-
 <a href="https://apps.apple.com/eg/app/approved-ksa/id1668993553" target="_blank">
 <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 <hr>
+
+## EbtasmUAE Projects
 
 ### Tia Driver
 Tia Driver app – the app for drivers.
@@ -127,7 +131,7 @@ The joys of shopping for kids.
 
 <hr>
 
-<h2> Open Source Projects </h2>
+## Open Source Projects
 
 ##### Food App https://github.com/saqrelfirgany/food_flutter_app
 
