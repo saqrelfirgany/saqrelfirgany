@@ -1,77 +1,192 @@
-**Ahmed Elfirgany (Saqr)**
+<h2>👋:heart: Hi there, I’m Ahmed Aamer  </h2>
 
-**Flutter Developer**
+- Software Engineer
+- Flutter Developer (Android, iOS, Desktop, Web)
+- Excellent Knowledge In Native Kotlin Development
+- Data Analysis Background
+- Encryption Algorithms Background
 
-**Contact Information**
+<h2> Contact with me on </h2>
 
-- Email: saqrelfirgany@gmail.com
-- Phone: +201025592065
-- LinkedIn: <https://www.linkedin.com/in/sa2r-elfirgany/>
-- [WhatsApp-00201025592065](http://Wa.me/201025592065)
+- Email : saqrelfirgany@gmail.com
 
-**Summary:**
+<p>
+<a href="http://Wa.me/201025592065" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+</a> <a href="https://www.linkedin.com/in/sa2r-elfirgany/" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
 
-Iam a **software engineer and Flutterdeveloper** with a passion for building **cross-platform mobile apps** with native interfaces. Ihave 2 years of experience in developing software solutions for various domains, such as **medical**,**artificial intelligence**,**e-commerce**,and **education**. Ihave worked with different technologies and languages, such as **Flutter**,**Kotlin**,**Python**,**Firebase**,and **Git**. Ihave excellent knowledge in **data analysis** and **encryption algorithms**,which Iuse to create secure and efficient applications. Ialso have a strong background in **object-oriented programming**,**design patterns**,and **clean architecture**. I’m always eager to learn new skills and explore new challenges. I enjoy collaborating with other developers and contributing to open source projects.
+<hr>
 
-**Education:**
+<h2> My Projects </h2>
 
-**SinaiUniversity,Al-Arish,Egypt,** CGPA3.14 (2017 -2020)
+## NamaaIT Projects
 
-Bachelor ofComputer Science -information technology.
+### Adam Pharmacy
 
-Graduation Project -Service Provider App -Native Kotlin Android (A+)
+An easy way to shop for medical supplies from our pharmacy branches in the KSA and have them delivered to your doorstep.
 
-**Experience:**
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.namaait.adampharmacy" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+<a href="https://apps.apple.com/eg/app/adam-pharmacy/id1672276218" target="_blank">
+<img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<hr>
 
-**FlutterDeveloper** at NamaaIT (Oct 2022 -Present)
+### Approved KSA
 
-- Developed cross-platform mobile apps with native interfaces using Flutter and Dart for various domains such as healthcare, e-commerce and education.
-- Integrated with Pusher,Firebase, and RESTfulAPIs to communicate with backend services and data sources.
-- Ensured code quality,performance, and security using best practices
-- Collaborated with other developers and stakeholders using Git,GitHub, Android Studio, and VSCode.
+APPROVED is a complete digital artificial based medical diagnosis including web-based solution, capable to integrate with different Hospital Information System.
 
-Projects:
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.namaait.approved" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+<a href="https://apps.apple.com/eg/app/approved-ksa/id1668993553" target="_blank">
+<img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<hr>
 
-- Adam Pharmacy: An e-commerce app for medical supplies with delivery service. [Android | ](https://play.google.com/store/apps/details?id=com.namaait.adampharmacy)[iOS](https://apps.apple.com/eg/app/adam-pharmacy/id1672276218)
-- Approved KSA:Adigital medical diagnosis app with artificial intelligence and web-based integration. [Android ](https://play.google.com/store/apps/details?id=com.namaait.approved)| [iOS](https://apps.apple.com/eg/app/approved-ksa/id1668993553)
+## EbtasmUAE Projects
 
-**FlutterDeveloper** at ebtasmuae (Dec 2021 -Oct 2022)
+### Tia Driver
+Tia Driver app – the app for drivers.
 
-- Developed a ride-sharing app for iOS and Android using Flutter,Pusher,Google Maps.
-- Implemented real-time tracking, rating system, and payment methods.
-- Worked independently and remotely using Git,GitHub, Android Studio, and VSCode.
+Help as you move people and things where they need to go. Drive whenever you want — no offices, no bosses. Wherever you want to go, we want you to enjoy the journey and the destination.
+Sign up to drive inside the Tia Driver app. We will guide you through the steps and notify you when you are all set to drive.
+<p> <a href="https://apps.apple.com/eg/app/tia-driver-app/id1603879320" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-Projects:
+<hr>
 
-- Tia Driver: Aride-sharing app for drivers. [iOS](https://apps.apple.com/eg/app/tia-driver-app/id1603879320)
-- Tia User: Aride-sharing app for fast and reliable rides. [iOS](https://apps.apple.com/eg/app/tia-user/id1603893373)
-- Mr Nano: Asmart app for integrated car services. [Android](https://play.google.com/store/apps/details?id=com.ebtasm.mrnano)
-- Bhr: An app that includes everything related to the sea. [Android ](https://play.google.com/store/apps/details?id=com.ebtasm.bhr)| [iOS](https://apps.apple.com/us/app/bhr/id1641237623)
-- Mazadi: An app specialized in auctioning products where bidding takes place online. [Android ](https://play.google.com/store/apps/details?id=com.ebtasm.mazadi)| [iOS](https://apps.apple.com/us/app/mazadi/id1602820215)
-- Coffee And Tea: An app that specializes in selling coffee and tea utensils with distinctive and modern designs. [Android ](https://play.google.com/store/apps/details?id=com.ebtasm.coffeetea)| [iOS](https://apps.apple.com/us/app/coffee-and-tea/id1619178774)
-- Hisn Alatfal: An app for shopping for kids. [Android](https://play.google.com/store/apps/details?id=com.ebtasm.kids_castle)
+### Tia User 
+Tia is a ridesharing app for fast, reliable rides in minutes – day or night. There is no need to park or wait for a taxi or bus. With Tia, you just tap to request a ride, and it is easy to pay with a credit/debit card or other online payment modes.
+Tia uses great vehicle quality but at a much cheaper rate to make it more affordable for riders.
+<p> <a href="https://apps.apple.com/eg/app/tia-user/id1603893373" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-**FlutterDeveloper** at Freelance (Dec 2021 -Mar 2023)
+<hr>
 
-- Developed e-commerce and multivendor apps using Flutter and RESTfulAPIs.
-- Migrated existing apps to state management solutions such as Provider,Getx, or Cubit.
-- Delivered secure and efficient applications that meet the client’s requirements and expectations.
+### Mr Nano - مستر نانو
+A smart application for integrated car services .. everything your car needs in one place
 
-**Computer Specialist** at Information Systems Branch of the Second Field Army
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.ebtasm.mrnano" target="_blank">
+ <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+<p>
 
-(Dec 2020 -Nov 2021)
+<hr>
 
-- Designed and developed applications for internal use.
-- Installed, upgraded, supported and enhanced various applications and network infrastructure.
-- Resolved technical issues related to servers, switches, PCs, laptops and printers.
+### Bhr
+تطبيق BHR بحر ، يضم كل مايتعلق في البحر من خدمات، معلومات، متاجر للمنتجات المستعملة و الجديدة وايضاً يمكن من خلاله حجز رحلات، ودورات تدريبية ونشاطات بحرية ،
 
-**Skills:**
+بسرعة وسهولة و امان تام.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.ebtasm.bhr" target="_blank">
+ <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+ <a href="https://apps.apple.com/us/app/bhr/id1641237623" target="_blank">
+ <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-- Proficient in Flutter and Dart for cross-platform mobile application development.
-- Experienced in state management solutions such as GetX,Cubit, and Provider.
-- Skilled in using Firebase services including Authentication, Firestore, Cloud Functions, and Storage.
-- Knowledgeable in using RESTfulAPIs and Pusher for real-time features.
-- Competent in integrating Google Maps with Flutter applications.
-- Skilled in native Android development using Kotlin and Android Jetpack components.
-- Familiar with Python for data analysis and encryption algorithms.
-- Experienced in using Git for version control and collaboration.
+<hr>
+
+### Mazadi
+تطبيق متخصص في المزاد على المنتجات ، حيث يتم المزاد عبر الإنترنت ،
+
+ويمكن لكل عميل المزايدة بالمبلغ الذي يريده ، وفي نهاية المزاد ،
+
+يتم إرسال رسالة إلى المستخدم الذي ربح بمعلومات البائع ليتم الاتصال به
+
+يتيح التطبيق أيضًا للمستخدمين إضافة إعلانات شخصية وإضافة العناصر المفقودة والمعثور عليها
+
+كما يتيح التطبيق للشركات إضافة إعلاناتها الخاصة بعد موافقة مسؤول التطبيق.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.ebtasm.mazadi" target="_blank">
+ <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+ <a href="https://apps.apple.com/us/app/mazadi/id1602820215" target="_blank">
+ <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Coffee And Tea
+We specialize in selling coffee and tea utensils
+
+Distinctive and modern coffee cups with the latest models and decorations
+
+Tea cups with distinctive and attractive designs
+
+We have many different types and sizes
+
+Our prices are competitive and the quality of our products is high.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.ebtasm.coffeetea" target="_blank">
+ <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+ <a href="https://apps.apple.com/us/app/coffee-and-tea/id1619178774" target="_blank">
+ <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Hisn Alatfal
+The joys of shopping for kids.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.ebtasm.kids_castle" target="_blank">
+ <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+ <a href="https://apps.apple.com/us/app/hisn-alatfal/id1629217103" target="_blank">
+ <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+## Open Source Projects
+
+##### Food App https://github.com/saqrelfirgany/food_flutter_app
+
+> Clean Structure, Getx, Real API, Responsive UI.
+
+<hr>
+
+##### Basic MoviesDB Client Flutter App https://github.com/saqrelfirgany/Basic-TMDB-Client
+> TMDB is a popular movies database. It allows the user to search, view, filter, rate, and group movies.
+
+<hr>
+
+##### Ecommerce Using GetX  https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
+> Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
+
+<hr>
+
+##### E-Commerce App  https://github.com/saqrelfirgany/E-Commerce-Flutter-App
+> UI
+
+
+<hr>
+
+##### Chat App  https://github.com/saqrelfirgany/Chat-Flutter-App
+> Authentication & Logout Functionality using Provider and Firebase, Stream Data with Stream Builder, Push Notifications. Firebase Cloud Messaging.
+
+
+<hr>
+
+##### Shop App  https://github.com/saqrelfirgany/Shop-Flutter-App
+> Providers & Proxy Provider State Management, Firebase, Managing the Auth Token Locally, HTTP Requests & POST Requests, PATCH Requests.
+
+##### Tesla App  https://github.com/saqrelfirgany/Tesla-Flutter-App
+> Animation
+
+
+<hr>
+
+##### Tasks App  https://github.com/saqrelfirgany/Tasks-Flutter-App
+> Getx State Management, Dynamic Theme Change - Local Push Notification, SQLite & Sqflite CRUD With Local Scheduled Notifications.
+
+
+### Native Kotlin Projects
+
+##### Instagram App  https://github.com/saqrelfirgany/InstagramApp
+> Social media app users can upload posts, like, Comments Follow, Stories and save images.
+
+
+<hr>
+
+##### Ecommerce App  https://github.com/saqrelfirgany/Ecommerce
+> Demo app, Technologies: Retrofit2, Image Cropper, Card View
+
+
+<hr>
+
+##### Messenger App  https://github.com/saqrelfirgany/MessengerApp
+> Demo app, Technologies: Fragment, Firebase, Picasso RecyclerView
