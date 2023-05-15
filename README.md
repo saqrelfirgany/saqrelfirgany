@@ -7,7 +7,6 @@
 - Email: saqrelfirgany@gmail.com
 - Phone: +201025592065
 - LinkedIn: <https://www.linkedin.com/in/sa2r-elfirgany/>
-- GitHub: <https://github.com/saqrelfirgany>
 - [WhatsApp-00201025592065](http://Wa.me/201025592065)
 
 **Summary:**
