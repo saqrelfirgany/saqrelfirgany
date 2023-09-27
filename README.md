@@ -1,215 +1,112 @@
-<h2>👋:heart: Hi there, I’m Ahmed Aamer  </h2>
+# 👋:heart: Hello World, I’m Ahmed Aamer!
 
-- Software Engineer
-- Flutter Developer (Android, iOS, Desktop, Web)
-- Excellent Knowledge In Native Kotlin Development
-- Data Analysis Background
-- Encryption Algorithms Background
+I'm a skilled Software Engineer and Flutter Developer with over 2 years of experience.
 
-<h2> Contact with me on </h2>
+I've had the privilege of working on several projects across different countries including:
 
-- Email : saqrelfirgany@gmail.com
+- 🇪🇬 Egypt
+- 🇹🇷 Turkey
+- 🇦🇪 UAE
+- 🇸🇦 KSA
+- 🇱🇾 Libya
 
-<p>
-<a href="http://Wa.me/201025592065" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-</a> <a href="https://www.linkedin.com/in/sa2r-elfirgany/" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<p>
+## 📫 Let's Connect
 
-<hr>
+- 📧 Email: saqrelfirgany@gmail.com
+- 🟢 [WhatsApp](http://Wa.me/201025592065)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sa2r-elfirgany/)
 
-<h2> My Projects </h2>
+## 💻 Projects
 
-## NamaaIT Projects
+### 🚀 NamaaIT Projects
 
-### BizBuradayız
+1. **BizBuradayız**: A platform that connects customers with leading companies providing emergency services and roadside assistance throughout the country. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz)
 
-A link between customers (service seekers) and (service providers) through the platform bringing together a selected group of leading companies, institutions and brands in providing emergency services and roadside assistance throughout the country.
+2. **BizBuradayız Driver**: An app for drivers to provide services for BizBuradayız. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz.driver)
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<!-- <a href="https://apps.apple.com/eg/app/adam-pharmacy/id1672276218" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<hr> -->
- 
-### BizBuradayız Driver
+3. **Adam Pharmacy**: An e-commerce app for medical supplies with delivery service. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.adampharmacy) 
+   - [App Store](https://apps.apple.com/eg/app/adam-pharmacy/id1672276218)
 
-A link between customers (service seekers) and (service providers) through the platform bringing together a selected group of leading companies, institutions and brands in providing emergency services and roadside assistance throughout the country.
+4. **Approved KSA**: A complete digital artificial based medical diagnosis including web-based solution, capable to integrate with different Hospital Information System. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.approved) 
+   - [App Store](https://apps.apple.com/eg/app/approved-ksa/id1668993553)
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz.driver" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<!-- <a href="https://apps.apple.com/eg/app/adam-pharmacy/id1672276218" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<hr> -->
+### 🌟 EbtasmUAE Projects
 
+1. **Tia Driver**: A ride-sharing app for drivers. 
+   - [App Store](https://apps.apple.com/eg/app/tia-driver-app/id1603879320)
 
-### Adam Pharmacy
+2. **Tia User**: A ride-sharing app for fast and reliable rides. 
+   - [App Store](https://apps.apple.com/eg/app/tia-user/id1603893373)
 
-An easy way to shop for medical supplies from our pharmacy branches in the KSA and have them delivered to your doorstep.
+3. **Mr Nano - مستر نانو**: An integrated smart application for car services. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.mrnano)
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.namaait.adampharmacy" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<a href="https://apps.apple.com/eg/app/adam-pharmacy/id1672276218" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<hr>
+4. **Bhr**: Everything related to the sea in one app. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.bhr) 
+   - [App Store](https://apps.apple.com/us/app/bhr/id1641237623)
 
-### Approved KSA
+5. **Mazadi**: A unique app specialized in auctioning products where bidding takes place online. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.mazadi) 
+   - [App Store](https://apps.apple.com/us/app/mazadi/id1602820215)
 
-APPROVED is a complete digital artificial based medical diagnosis including web-based solution, capable to integrate with different Hospital Information System.
+6. **Coffee And Tea**: An app that specializes in selling coffee and tea utensils with distinctive and modern designs. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.coffeetea) 
+   - [App Store](https://apps.apple.com/us/app/coffee-and-tea/id1619178774)
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.namaait.approved" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<a href="https://apps.apple.com/eg/app/approved-ksa/id1668993553" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<hr>
+7. **Hisn Alatfal**: Making shopping for kids joyful. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.kids_castle) 
+   - [App Store](https://apps.apple.com/us/app/hisn-alatfal/id1629217103)
 
-## EbtasmUAE Projects
+## 🛠️ Open Source Projects
 
-### Tia Driver
-Tia Driver app – the app for drivers.
+1. **Food App**: Clean Structure, Getx, Real API, Responsive UI.
+   - [GitHub Repo](https://github.com/saqrelfirgany/food_flutter_app)
 
-Help as you move people and things where they need to go. Drive whenever you want — no offices, no bosses. Wherever you want to go, we want you to enjoy the journey and the destination.
-Sign up to drive inside the Tia Driver app. We will guide you through the steps and notify you when you are all set to drive.
-<p> <a href="https://apps.apple.com/eg/app/tia-driver-app/id1603879320" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+2. **Basic MoviesDB Client Flutter App**: TMDB is a popular movies database that allows users to search, view, filter, rate, and group movies.
+   - [GitHub Repo](https://github.com/saqrelfirgany/Basic-TMDB-Client)
 
-<hr>
+3. **Ecommerce Using GetX**: Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
+   - [GitHub Repo](https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX)
 
-### Tia User 
-Tia is a ridesharing app for fast, reliable rides in minutes – day or night. There is no need to park or wait for a taxi or bus. With Tia, you just tap to request a ride, and it is easy to pay with a credit/debit card or other online payment modes.
-Tia uses great vehicle quality but at a much cheaper rate to make it more affordable for riders.
-<p> <a href="https://apps.apple.com/eg/app/tia-user/id1603893373" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+4. **E-Commerce App**: UI focused project.
+   - [GitHub Repo](https://github.com/saqrelfirgany/E-Commerce-Flutter-App)
 
-<hr>
+5. **Chat App**: Authentication & Logout Functionality using Provider and Firebase, Stream Data with Stream Builder, Push Notifications using Firebase Cloud Messaging.
+   - [GitHub Repo](https://github.com/saqrelfirgany/Chat-Flutter-App)
 
-### Mr Nano - مستر نانو
-A smart application for integrated car services .. everything your car needs in one place
+6. **Shop App**: Providers & Proxy Provider State Management, Firebase, Managing the Auth Token Locally, HTTP Requests & POST Requests, PATCH Requests.
+   - [GitHub Repo](https://github.com/saqrelfirgany/Shop-Flutter-App)
 
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.ebtasm.mrnano" target="_blank">
- <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-<p>
+7. **Tesla App**: Animation focused project.
+   - [GitHub Repo](https://github.com/saqrelfirgany/Tesla-Flutter-App)
 
-<hr>
+8. **Tasks App**: Getx State Management, Dynamic Theme Change - Local Push Notification, SQLite & Sqflite CRUD With Local Scheduled Notifications.
+   - [GitHub Repo](https://github.com/saqrelfirgany/Tasks-Flutter-App)
 
-### Bhr
-تطبيق BHR بحر ، يضم كل مايتعلق في البحر من خدمات، معلومات، متاجر للمنتجات المستعملة و الجديدة وايضاً يمكن من خلاله حجز رحلات، ودورات تدريبية ونشاطات بحرية ،
 
-بسرعة وسهولة و امان تام.
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.ebtasm.bhr" target="_blank">
- <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
- <a href="https://apps.apple.com/us/app/bhr/id1641237623" target="_blank">
- <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+## 🛠️ More Open Source Projects
 
-<hr>
+1. **Video Record**: A project related to video recording.
+   - [GitHub Repo](https://github.com/saqrelfirgany/video_record)
 
-### Mazadi
-تطبيق متخصص في المزاد على المنتجات ، حيث يتم المزاد عبر الإنترنت ،
+2. **CI/CD**: A project demonstrating the use of Continuous Integration and Continuous Deployment.
+   - [GitHub Repo](https://github.com/saqrelfirgany/cicd)
 
-ويمكن لكل عميل المزايدة بالمبلغ الذي يريده ، وفي نهاية المزاد ،
+3. **Bubble Trouble**: A fun and interactive game project.
+   - [GitHub Repo](https://github.com/saqrelfirgany/bubble_trouble)
 
-يتم إرسال رسالة إلى المستخدم الذي ربح بمعلومات البائع ليتم الاتصال به
+4. **Sanaiey Delivery**: A delivery service project.
+   - [GitHub Repo](https://github.com/saqrelfirgany/-sanaiey-delivery)
 
-يتيح التطبيق أيضًا للمستخدمين إضافة إعلانات شخصية وإضافة العناصر المفقودة والمعثور عليها
+5. **Desktop News App**: A desktop application for browsing news.
+   - [GitHub Repo](https://github.com/saqrelfirgany/Desktop-News-App)
 
-كما يتيح التطبيق للشركات إضافة إعلاناتها الخاصة بعد موافقة مسؤول التطبيق.
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.ebtasm.mazadi" target="_blank">
- <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
- <a href="https://apps.apple.com/us/app/mazadi/id1602820215" target="_blank">
- <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-<hr>
+## 📱 Native Kotlin Projects
 
-### Coffee And Tea
-We specialize in selling coffee and tea utensils
-
-Distinctive and modern coffee cups with the latest models and decorations
-
-Tea cups with distinctive and attractive designs
-
-We have many different types and sizes
-
-Our prices are competitive and the quality of our products is high.
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.ebtasm.coffeetea" target="_blank">
- <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
- <a href="https://apps.apple.com/us/app/coffee-and-tea/id1619178774" target="_blank">
- <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Hisn Alatfal
-The joys of shopping for kids.
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.ebtasm.kids_castle" target="_blank">
- <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
- <a href="https://apps.apple.com/us/app/hisn-alatfal/id1629217103" target="_blank">
- <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-## Open Source Projects
-
-##### Food App https://github.com/saqrelfirgany/food_flutter_app
-
-> Clean Structure, Getx, Real API, Responsive UI.
-
-<hr>
-
-##### Basic MoviesDB Client Flutter App https://github.com/saqrelfirgany/Basic-TMDB-Client
-> TMDB is a popular movies database. It allows the user to search, view, filter, rate, and group movies.
-
-<hr>
-
-##### Ecommerce Using GetX  https://github.com/saqrelfirgany/Flutter-Ecommerce-Using-GetX
-> Getx Ecosystem package, Firebase, and MVVM, Google and Facebook Sign-in.
-
-<hr>
-
-##### E-Commerce App  https://github.com/saqrelfirgany/E-Commerce-Flutter-App
-> UI
-
-
-<hr>
-
-##### Chat App  https://github.com/saqrelfirgany/Chat-Flutter-App
-> Authentication & Logout Functionality using Provider and Firebase, Stream Data with Stream Builder, Push Notifications. Firebase Cloud Messaging.
-
-
-<hr>
-
-##### Shop App  https://github.com/saqrelfirgany/Shop-Flutter-App
-> Providers & Proxy Provider State Management, Firebase, Managing the Auth Token Locally, HTTP Requests & POST Requests, PATCH Requests.
-
-##### Tesla App  https://github.com/saqrelfirgany/Tesla-Flutter-App
-> Animation
-
-
-<hr>
-
-##### Tasks App  https://github.com/saqrelfirgany/Tasks-Flutter-App
-> Getx State Management, Dynamic Theme Change - Local Push Notification, SQLite & Sqflite CRUD With Local Scheduled Notifications.
-
-
-### Native Kotlin Projects
-
-##### Instagram App  https://github.com/saqrelfirgany/InstagramApp
-> Social media app users can upload posts, like, Comments Follow, Stories and save images.
-
-
-<hr>
-
-##### Ecommerce App  https://github.com/saqrelfirgany/Ecommerce
-> Demo app, Technologies: Retrofit2, Image Cropper, Card View
-
-
-<hr>
-
-##### Messenger App  https://github.com/saqrelfirgany/MessengerApp
-> Demo app, Technologies: Fragment, Firebase, Picasso RecyclerView
+1. **Instagram App**: Social media app where users can upload posts, like, comment, follow others and view stories.
+   - [GitHub Repo](https://github.com/saqrelfirgany/InstagramApp)
