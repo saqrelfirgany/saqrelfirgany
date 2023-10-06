@@ -36,28 +36,22 @@ I've had the privilege of working on several projects across different countries
 
 ### 🌟 EbtasmUAE Projects
 
-1. **Tia Driver**: A ride-sharing app for drivers. 
-   - [App Store](https://apps.apple.com/eg/app/tia-driver-app/id1603879320)
-
-2. **Tia User**: A ride-sharing app for fast and reliable rides. 
-   - [App Store](https://apps.apple.com/eg/app/tia-user/id1603893373)
-
-3. **Mr Nano - مستر نانو**: An integrated smart application for car services. 
+1. **Mr Nano - مستر نانو**: An integrated smart application for car services. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.mrnano)
 
-4. **Bhr**: Everything related to the sea in one app. 
+2. **Bhr**: Everything related to the sea in one app. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.bhr) 
    - [App Store](https://apps.apple.com/us/app/bhr/id1641237623)
 
-5. **Mazadi**: A unique app specialized in auctioning products where bidding takes place online. 
+3. **Mazadi**: A unique app specialized in auctioning products where bidding takes place online. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.mazadi) 
    - [App Store](https://apps.apple.com/us/app/mazadi/id1602820215)
 
-6. **Coffee And Tea**: An app that specializes in selling coffee and tea utensils with distinctive and modern designs. 
+4. **Coffee And Tea**: An app that specializes in selling coffee and tea utensils with distinctive and modern designs. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.coffeetea) 
    - [App Store](https://apps.apple.com/us/app/coffee-and-tea/id1619178774)
 
-7. **Hisn Alatfal**: Making shopping for kids joyful. 
+5. **Hisn Alatfal**: Making shopping for kids joyful. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.ebtasm.kids_castle) 
    - [App Store](https://apps.apple.com/us/app/hisn-alatfal/id1629217103)
 
