@@ -35,6 +35,7 @@ I've had the privilege of working on several projects across different countries
 3. **Adam Pharmacy**: An e-commerce app for medical supplies with delivery service. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.adampharmacy) 
    - [App Store](https://apps.apple.com/eg/app/adam-pharmacy/id1672276218)
+   - [Website](https://www.adamonline.com/ar)
    - [Architecture used - Flutter Clean Architecture]
 
 4. **Approved KSA**: A complete digital artificial based medical diagnosis including web-based solution, capable to integrate with different Hospital Information System. 
