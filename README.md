@@ -22,17 +22,22 @@ I've had the privilege of working on several projects across different countries
 
 1. **BizBuradayız**: A platform that connects customers with leading companies providing emergency services and roadside assistance throughout the country. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz)
+   - [Architecture used - Real-World Flutter](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz)
 
 2. **BizBuradayız Driver**: An app for drivers to provide services for BizBuradayız. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz.driver)
+   - [Architecture used - Under migrating to Real-World Flutter]
+
 
 3. **Adam Pharmacy**: An e-commerce app for medical supplies with delivery service. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.adampharmacy) 
    - [App Store](https://apps.apple.com/eg/app/adam-pharmacy/id1672276218)
+   - [Architecture used - Flutter Clean Architecture]
 
 4. **Approved KSA**: A complete digital artificial based medical diagnosis including web-based solution, capable to integrate with different Hospital Information System. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.approved) 
    - [App Store](https://apps.apple.com/eg/app/approved-ksa/id1668993553)
+   - [Architecture used - MVC]
 
 ### 🌟 EbtasmUAE Projects
 
