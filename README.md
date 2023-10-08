@@ -23,7 +23,7 @@ I've had the privilege of working on several projects across different countries
 
 1. **BizBuradayız**: A platform that connects customers with leading companies providing emergency services and roadside assistance throughout the country. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz)
-   - [Architecture used - Real-World Flutter](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz)
+   - [Architecture used - Real-World Flutter](https://github.com/kodecocodes/rwf-materials)
    - When I joined the team, the project had a significant number of bugs. My first challenge was to address and resolve all these bugs before transitioning it to the new architecture.
    - Integrated with Pusher
 
