@@ -5,8 +5,9 @@ Proficient in developing cross-platform mobile applications using Flutter and Da
 Strong problem-solving skills and a track record of delivering efficient, secure, and user-friendly apps.
 I've had the privilege of working on several projects across different countries including:
 
-- 🇪🇬 Egypt
+- 🇪🇬 Egypt 
 - 🇹🇷 Turkey
+- 🇰🇼 Kuwaiti
 - 🇦🇪 UAE
 - 🇸🇦 KSA
 - 🇱🇾 Libya
@@ -17,15 +18,21 @@ I've had the privilege of working on several projects across different countries
 - 🟢 [WhatsApp](http://Wa.me/201025592065)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sa2r-elfirgany/)
 
-## 💻 Projects
 
-### 🚀 NamaaIT Projects
+### Mobile Applications
 
-1. **BizBuradayız**: A platform that connects customers with leading companies providing emergency services and roadside assistance throughout the country. 
+1. **Adam Pharmacy**: Adam Pharmacy is your trusted partner for all your medical needs. Whether you need prescription drugs, over-the-counter medicines, or health supplements, you can order them easily with our app and get them delivered to your doorstep. Adam Pharmacy cares about your well-being and offers you a convenient and reliable way to access quality healthcare products. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.adampharmacy)
+   - [App Store](https://apps.apple.com/eg/app/adam-pharmacy/id1672276218)
+
+2. **AlNasser**: ALNASSER is the ultimate destination for fashion and sports lovers. Discover the latest trends and styles from top brands in women’s wear, men’s wear, kids’ wear, sports equipment & accessories, shoes, and more. With ALNASSER, you can shop with confidence and enjoy great value for money. ALNASSER is more than just a retail company, it’s a lifestyle choice. 
+   - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.alnasser)
+   - [App Store](https://apps.apple.com/us/app/alnasser/id6443395471)
+
+3. **BizBuradayız**: With BizBuradayız, you can enjoy a hassle-free journey to find the best service providers in your area. we have you covered. BizBuradayız connects you to trusted and verified professionals who can help you with your needs. You can also browse through leading companies and brands that offer quality services and products. BizBuradayız is more than just an app, it’s a commitment to your comfort and satisfaction. 
    - [Google Play](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz)
    - [App Store](https://apps.apple.com/eg/app/bizburaday%C4%B1z/id6468649321)
    - [Architecture used - Real-World Flutter](https://github.com/kodecocodes/rwf-materials)
-   - When I joined the team, the project had a significant number of bugs. My first challenge was to address and resolve all these bugs before transitioning it to the new architecture.
    - Integrated with Pusher
 
 
