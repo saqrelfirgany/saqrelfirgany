@@ -1,4 +1,4 @@
-# 👋: Hello World, I’m Ahmed Aamer!
+# 👋: Hello, I’m Ahmed Aamer!
 
 I'm a skilled Software Engineer and Flutter Developer with over 2 years of experience.
 Proficient in developing cross-platform mobile applications using Flutter and Dart.
