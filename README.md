@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Aamer!
 
-I'm a skilled Software Engineer and Flutter Developer with over 2 years of experience. Proficient in developing cross-platform mobile applications using Flutter and Dart. Strong problem-solving skills and a track record of delivering efficient, secure, and user-friendly apps. I've had the privilege of working on several projects across different countries including:
+I'm a skilled Software Engineer and Flutter Developer with over 3 years of experience. Proficient in developing cross-platform mobile applications using Flutter and Dart. Strong problem-solving skills and a track record of delivering efficient, secure, and user-friendly apps. I've had the privilege of working on several projects across different countries including:
 
 - 🇪🇬 Egypt
 - 🇹🇷 Turkey
