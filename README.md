@@ -17,11 +17,14 @@
 
 ## 🌟 **Summary**
 
-With **over four years of experience** in software development, I have built a diverse portfolio of applications across various domains, including real estate, healthcare, retail, and service management. I thrive on tackling new challenges and leveraging my technical expertise to deliver innovative, user-friendly solutions.  
+👋 Hi, I’m Ahmed Elfirgany, a Flutter Developer with 4+ years of experience.
 
-My **flexible approach to technology** allows me to adapt quickly to different environments and requirements, ensuring seamless integration and optimal performance. Whether it’s optimizing app performance, integrating RESTful APIs, or implementing real-time features, I am committed to delivering high-quality results.  
+I build cross-platform apps, optimize performance, and integrate backend solutions like RESTful APIs, Real-Time, and Firebase. 
+My portfolio spans real estate, healthcare, retail, and service management, delivering user-friendly, high-quality applications.
 
-For a deeper look at my work, feel free to explore my [GitHub Overview](https://github.com/saqrelfirgany). Let’s build something amazing together!  
+Adaptable and detail-oriented, I thrive on challenges and enjoy collaborating on innovative projects. 
+Let’s connect and build something amazing!
+
 
 ---
 
