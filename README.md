@@ -25,6 +25,34 @@ My portfolio spans real estate, healthcare, retail, and service management, deli
 Adaptable and detail-oriented, I thrive on challenges and enjoy collaborating on innovative projects. 
 Let’s connect and build something amazing!
 
+---
+
+🚀 **Open Source Contributor**: Currently building **[Flutter Enterprise Template](https://github.com/saqrelfirgany/flutter_template)** - A production-ready starter kit for large-scale applications featuring:
+
+![Flutter](https://img.shields.io/badge/Flutter-3.16.0+-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.3.0+-blue?logo=dart)
+
+**Template Features**:
+- 🏗 Clean Architecture Implementation (Presentation ↔ Domain ↔ Data)
+- 📱 Adaptive UI System (Mobile ↔ Tablet ↔ Desktop)
+- 🌓 Theme Management with Dark/Light Mode
+- ⚡ State Management using Cubit/BLoC
+- 🌐 Dio HTTP Client with Interceptors
+- 📦 Modular Component Library
+- ✅ Full Testing Infrastructure
+- 🛠 CI/CD Ready Structure
+
+**[Explore the Template →](https://github.com/saqrelfirgany/flutter_template)**  
+**[View Documentation →](https://github.com/saqrelfirgany/flutter_template/wiki)**
+
+---
+
+## 🛠 **Featured Projects**
+
+### **Flutter Enterprise Template** (Open Source)
+🔥 **Next-Gen Starter Kit** for Flutter Applications  
+✅ Production-Ready Architecture • 🚀 Rapid Development • 💡 Best Practices  
+⭐ Star on GitHub: [github.com/saqrelfirgany/flutter_template](https://github.com/saqrelfirgany/flutter_template)
 
 ---
 
