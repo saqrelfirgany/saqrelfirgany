@@ -30,7 +30,7 @@ I transform complex requirements into high-performance mobile solutions. With **
 - 🚀 **60% UX improvement** at Aqarmap
 - 📱 **12+ published apps** 
 - ⚡ **Real-time systems** mastery
-- 🏗️ **Clean Architecture** evangelist & OSS contributor
+- 🏗️ **Clean Architecture**
 
 ---
 
