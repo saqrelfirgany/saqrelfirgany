@@ -28,7 +28,7 @@ I transform complex requirements into high-performance mobile solutions. With **
 
 **My signature blend:**
 - 🚀 **60% UX improvement** at Aqarmap
-- 📱 **12+ published apps** 
+- 📱 **18+ published apps** 
 - ⚡ **Real-time systems** mastery
 - 🏗️ **Clean Architecture**
 
