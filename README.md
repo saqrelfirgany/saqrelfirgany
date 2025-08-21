@@ -39,7 +39,7 @@ I transform complex requirements into high-performance mobile solutions. With **
 | Platform | Link |
 |----------|------|
 | **Email** | [saqrelfirgany@gmail.com](mailto:saqrelfirgany@gmail.com) |
-| **Phone** | [+201025592065](tel:+201025592065) |
+| **WhatsApp** | [+971568224047](https://wa.me/+971568224047) |
 | **LinkedIn** | [Ahmed Elfirgany](https://www.linkedin.com/in/sa2r-elfirgany/) |
 | **GitHub** | [saqrelfirgany](https://github.com/saqrelfirgany) |
 
