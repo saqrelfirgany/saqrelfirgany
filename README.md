@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Flutter Software Engineer** with **4+ years** of experience building **cross-platform mobile apps** across real estate, healthcare, retail, HR, and fintech.
+I’m a **Flutter Software Engineer** with **5+ years** of experience building **cross-platform mobile apps** across real estate, healthcare, retail, HR, and fintech.
 
 * ⚡ **Performance-focused:** Optimized Aqarmap apps (200K+ users) with **60% faster UX**.
 * 🏗️ **Clean Architecture advocate:** Creator of [Flutter Enterprise Template](https://github.com/saqrelfirgany/flutter_template).
