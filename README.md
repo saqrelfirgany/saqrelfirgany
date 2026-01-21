@@ -94,10 +94,10 @@ Ahmed Elfirgany
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://wa.me/201201888959">
+<a href="https://wa.me/201025592065">
 <img src="https://img.icons8.com/fluency/96/000000/whatsapp.png" width="60"/><br/>
 <b>WhatsApp</b><br/>
-+201201888959
++201025592065
 </a>
 </td>
 </tr>
