@@ -146,7 +146,7 @@ Enterprise-grade CRM for real estate companies and brokers — managing leads, l
 
 ---
 
-### <img src="https://img.shields.io/badge/02-0D1117?style=flat-square&logoColor=white" /> Smartware — Technical Consultant & Team Lead
+### <img src="https://img.shields.io/badge/02-0D1117?style=flat-square&logoColor=white" /> Smartware — Senior Flutter Developer
 
 > **Sep 2023 – Jan 2025** · Freelance · Remote · Riyadh, Saudi Arabia
 >
