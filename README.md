@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ahmed%20ElFirgany&fontSize=42&fontColor=E2E8F0&fontAlignY=35&desc=Senior%20Flutter%20Developer%20•%20Software%20Engineer%20•%20Expanding%20into%20.NET%20Backend&descSize=16&descAlignY=55&descColor=94A3B8&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ahmed%20ElFirgany&fontSize=42&fontColor=E2E8F0&fontAlignY=35&desc=Senior%20Flutter%20Developer%20•%20Mobile%20Software%20Engineer&descSize=16&descAlignY=55&descColor=94A3B8&animation=fadeIn" width="100%" />
 
 <br/>
 
-<a href="mailto:dev.elfirgany@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="mailto:saqrelfirgany@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 <a href="https://www.linkedin.com/in/ahmed-elfirgany-a71635396/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://github.com/saqrelfirgany"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://wa.me/201025592065"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=6%2B+Years+Building+Flutter+Apps;20%2B+Published+Apps+%7C+200K%2B+Users" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=5+Years+Building+Flutter+Apps;18%2B+Published+Apps+%7C+200K%2B+Users" />
 
 <br/>
 
@@ -28,26 +28,27 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                                                                              │
-│   Experience    ➜  6+ Years in Flutter & Mobile Development                  │
-│   Published     ➜  20+ Apps on Google Play & App Store                       │
+│   Experience    ➜  5 Years in Flutter & Mobile Development                   │
+│   Published     ➜  18+ Apps on Google Play & App Store                       │
 │   Users         ➜  200K+ Active Users Across Platforms                       │
 │   Current Role  ➜  Senior Flutter Developer @ Aqarmap                        │
 │   Leadership    ➜  Led Team of 3 Developers at NamaaIT                       │
-│   Expanding     ➜  .NET Backend Development                                  │
+│   Consulting    ➜  Team Lead @ Smartware              │
 │                                                                              │
 │   Industries    ➜  Real Estate • Healthcare • E-commerce • Automotive        │
 │                    HR Tech • Fintech • On-Demand Services                     │
 │                                                                              │
-│   Top Skills    ➜  Problem Solving • Software Development • Flutter          │
+│   Top Skills    ➜  Flutter • Clean Architecture • BLoC • Team Leadership     │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-> **Senior Flutter Developer** with 6+ years of experience, delivering **20+ production apps** across Real Estate, Healthcare, HR, E-commerce, Automotive, and On-Demand Services. I combine mobile development expertise with a strong **data analysis background**, and I'm currently expanding into **.NET backend development** to build full-stack solutions. I focus on clean architecture, high performance, and seamless user experience — taking projects from concept to deployment.
+> **Senior Flutter Developer** with 5 years of experience, delivering **18+ production apps** across Real Estate, Healthcare, HR, E-commerce, Automotive, and On-Demand Services. I specialize in clean architecture, BLoC state management, and full-cycle mobile development — taking projects from concept to deployment. Proven track record of leading mobile teams, mentoring developers, and delivering cross-platform solutions serving millions of users across Egypt and Saudi Arabia.
 
 <br/>
+
 
 ## 🛠️ Tech Stack
 
@@ -55,8 +56,8 @@
 
 | **Category** | **Technologies** |
 |:---:|:---|
-| **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) _(expanding)_ |
+| **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Architecture** | `Clean Architecture` `MVVM` `Repository Pattern` `Modular Design` `SOLID` |
 | **State Management** | `BLoC (Expert)` `Cubit` `Provider` `Riverpod` `GetX` |
 | **Backend & APIs** | `REST` `GraphQL` `WebSocket` `Dio` `Retrofit` `JWT` `OAuth` |
@@ -79,7 +80,7 @@
 
 ### <img src="https://img.shields.io/badge/01-0D1117?style=flat-square&logoColor=white" /> Aqarmap — Senior Flutter Developer
 
-> **Jan 2024 – Present (2 years 2 months)** · Cairo, Egypt (Hybrid)
+> **Jan 2024 – Present** · Full-time · Remote · Cairo, Egypt
 >
 > Egypt's #1 real estate platform · `200K+ users` · `99.9% uptime` · `30% performance boost`
 
@@ -119,7 +120,7 @@ Localized real estate platform for the **Saudi Arabian market** with bilingual s
 
 **Tech:** `Flutter` `BLoC` `Clean Architecture` `Localization (l10n)` `RTL Support` `REST APIs` `Firebase`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aqarmap.invest) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/عقارماب-السعودية/id6470154017)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aqarmap.invest) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1%D9%85%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/id6470154017)
 
 </details>
 
@@ -145,9 +146,19 @@ Enterprise-grade CRM for real estate companies and brokers — managing leads, l
 
 ---
 
-### <img src="https://img.shields.io/badge/02-0D1117?style=flat-square&logoColor=white" /> Smartware — Flutter Developer (Freelance)
+### <img src="https://img.shields.io/badge/02-0D1117?style=flat-square&logoColor=white" /> Smartware — Technical Consultant & Team Lead
 
-> **Mar 2023 – Jan 2025** · Riyadh, Saudi Arabia (Remote)
+> **Sep 2023 – Jan 2025** · Freelance · Remote · Riyadh, Saudi Arabia
+>
+> Promoted from developer to consulting & team management · Architecture decisions · Sprint planning
+
+- Transitioned from hands-on development to consulting role, providing technical direction and team leadership
+- Managed and mentored a development team, conducting code reviews, sprint planning, and architecture decisions
+- Collaborated directly with stakeholders on requirement gathering, feature prioritization, and delivery roadmaps
+
+### <img src="https://img.shields.io/badge/02-0D1117?style=flat-square&logoColor=white" /> Smartware — Flutter Developer
+
+> **Mar 2023 – Aug 2023** · Freelance · Remote · Riyadh, Saudi Arabia
 >
 > Enterprise HR & project management solutions · `50K+ employees` · `4.6★ rating` · `Clean Architecture from scratch`
 
@@ -199,7 +210,7 @@ Comprehensive self-service HR app serving **50K+ employees** across multiple Sau
 
 ### <img src="https://img.shields.io/badge/03-0D1117?style=flat-square&logoColor=white" /> NamaaIT — Flutter Developer & Team Lead
 
-> **Jun 2021 – Dec 2023** · Cairo, Egypt (On-site)
+> **Jan 2022 – Dec 2023** · Full-time · Cairo, Egypt
 >
 > Led team of 3 · `7 production apps` · `4 countries` · Mentored juniors to mid-level · Scalable architecture
 
@@ -258,7 +269,7 @@ Turkish on-demand platform — connecting customers with professionals across ho
 
 **Tech:** `Flutter` `BLoC` `Pusher` `Google Maps` `Real-time Tracking` `Firebase Messaging` `In-App Chat`
 
-[![Customer App](https://img.shields.io/badge/Customer_App-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz) [![Driver App](https://img.shields.io/badge/Driver_App-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz.driver)
+[![Customer App](https://img.shields.io/badge/Customer_App-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/bizburadayiz/id1625847498) [![Driver App](https://img.shields.io/badge/Driver_App-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz.driver) [![Driver App Store](https://img.shields.io/badge/Driver_App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/bizburadayiz-driver/id1625847870)
 
 </details>
 
@@ -297,7 +308,7 @@ All-in-one super app — food delivery, taxi, bill payments, groceries, and ente
 
 **Tech:** `Flutter` `GetX` `Modular Architecture` `Payment Gateway` `Google Maps` `Push Notifications`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.obourhub) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/obourhub-عبور-هب/id1611180550)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.obourhub) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/obourhub-%D8%B9%D8%A8%D9%88%D8%B1-%D9%87%D8%A8/id1611180550)
 
 </details>
 
@@ -316,7 +327,7 @@ Egyptian fashion platform — modest wear, abayas, hijabs with **AR virtual try-
 
 **Tech:** `Flutter` `Provider` `AR Integration` `REST APIs` `Firebase` `Payment Gateway`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.deodela) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/deodela-دي-أوديلا/id1527901120)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.deodela) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/deodela-%D8%AF%D9%8A-%D8%A3%D9%88%D8%AF%D9%8A%D9%84%D8%A7/id1527901120)
 
 </details>
 
@@ -324,7 +335,7 @@ Egyptian fashion platform — modest wear, abayas, hijabs with **AR virtual try-
 
 ### <img src="https://img.shields.io/badge/04-0D1117?style=flat-square&logoColor=white" /> EbtasmUAE — Flutter Developer
 
-> **Aug 2019 – May 2021** · United Arab Emirates (Remote)
+> **Jun 2021 – Dec 2021** · Freelance · Remote · United Arab Emirates
 >
 > 5 production apps · Consumer & business apps across automotive, retail, and kids' products · Scalable state management
 
@@ -482,8 +493,9 @@ flutter run
 
 | | Details |
 |:---|:---|
-| 🎓 **B.Sc. Computer Science — IT** | Sinai University, Egypt (2016–2020) · GPA: 3.14/4.0 · Graduation Project: **A+** |
-| 📜 **Flutter Development Bootcamp** | Udemy — Maximilian Schwarzmüller (2021) |
+| 🎓 **B.Sc. Computer Science — IT** | Sinai University, Al-Arish, Egypt (2016–2020) · GPA: 3.14/4.0 · Graduation Project: **A+** |
+| 🎖️ **Military Service** | Egyptian Armed Forces (Nov 2020 – Dec 2021) |
+| 📜 **Flutter Development Bootcamp** | Udemy (2021) |
 | 📜 **One Million Arab Coders** | Udacity / MBRGI — Data Analysis Track (2019) |
 
 ---
@@ -492,8 +504,8 @@ flutter run
 
 <br/>
 
-[![Hire Me](https://img.shields.io/badge/✦_Open_to_Opportunities-2563EB?style=for-the-badge)](mailto:dev.elfirgany@gmail.com)
-[![Freelance](https://img.shields.io/badge/✦_Freelance_Welcome-059669?style=for-the-badge)](mailto:dev.elfirgany@gmail.com)
+[![Hire Me](https://img.shields.io/badge/✦_Open_to_Opportunities-2563EB?style=for-the-badge)](mailto:saqrelfirgany@gmail.com)
+[![Freelance](https://img.shields.io/badge/✦_Freelance_Welcome-059669?style=for-the-badge)](mailto:saqrelfirgany@gmail.com)
 
 <br/>
 
