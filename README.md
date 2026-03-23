@@ -29,7 +29,7 @@
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                                                                              │
 │   Experience    ➜  5 Years in Flutter & Mobile Development                   │
-│   Published     ➜  18+ Apps on Google Play & App Store                       │
+│   Published     ➜  22+ Apps on Google Play & App Store                       │
 │   Users         ➜  200K+ Active Users Across Platforms                       │
 │   Current Role  ➜  Senior Flutter Developer @ Aqarmap                        │
 │   Leadership    ➜  Led Team of 3 Developers at NamaaIT                       │
