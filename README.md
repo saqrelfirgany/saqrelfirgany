@@ -1,54 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ahmed%20ElFirgany&fontSize=42&fontColor=E2E8F0&fontAlignY=35&desc=Senior%20Flutter%20Developer%20•%20Mobile%20Software%20Engineer&descSize=16&descAlignY=55&descColor=94A3B8&animation=fadeIn" width="100%" />
-
-<br/>
-
-<a href="mailto:saqrelfirgany@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://www.linkedin.com/in/ahmed-elfirgany-a71635396/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://github.com/saqrelfirgany"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://wa.me/201025592065"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
+<img width="2000" height="600" alt="hero" src="https://github.com/user-attachments/assets/cd5ba230-7bd2-44fb-aecb-909a311b5139" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=5+Years+Building+Flutter+Apps;18%2B+Published+Apps+%7C+200K%2B+Users" />
-
-<br/>
-
-```
-📍 Cairo, Egypt  •  🌍 Egypt | Saudi Arabia | UAE | Turkey  •  🗣️ Arabic (Native) | English (Professional)
-```
+<a href="mailto:saqrelfirgany@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0B1120" /></a>
+<a href="https://www.linkedin.com/in/ahmed-elfirgany-a71635396/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0B1120" /></a>
+<a href="https://github.com/saqrelfirgany"><img src="https://img.shields.io/badge/GitHub-0B1120?style=flat-square&logo=github&logoColor=white&labelColor=0B1120" /></a>
+<a href="https://wa.me/201025592065"><img src="https://img.shields.io/badge/WhatsApp-0B1120?style=flat-square&logo=whatsapp&logoColor=25D366&labelColor=0B1120" /></a>
 
 </div>
 
 <br/>
 
-## ⚡ At a Glance
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   Experience    ➜  5 Years in Flutter & Mobile Development                   │
-│   Published     ➜  22+ Apps on Google Play & App Store                       │
-│   Users         ➜  200K+ Active Users Across Platforms                       │
-│   Current Role  ➜  Senior Flutter Developer @ Aqarmap                        │
-│   Leadership    ➜  Led Team of 3 Developers at NamaaIT                       │
-│   Consulting    ➜  Team Lead @ Smartware              │
-│                                                                              │
-│   Industries    ➜  Real Estate • Healthcare • E-commerce • Automotive        │
-│                    HR Tech • Fintech • On-Demand Services                     │
-│                                                                              │
-│   Top Skills    ➜  Flutter • Clean Architecture • BLoC • Team Leadership     │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+> **Senior Flutter Developer & Mobile Software Engineer** — 5+ years shipping **22+ production apps** (200K+ users across 5 countries) with **Clean Architecture & BLoC**, an **AI-assisted workflow** (Claude Code · MCP), and a track record of leading mobile teams. Currently **expanding into backend** for full-stack delivery.
 
 <br/>
-
-> **Senior Flutter Developer** with 5 years of experience, delivering **18+ production apps** across Real Estate, Healthcare, HR, E-commerce, Automotive, and On-Demand Services. I specialize in clean architecture, BLoC state management, and full-cycle mobile development — taking projects from concept to deployment. Proven track record of leading mobile teams, mentoring developers, and delivering cross-platform solutions serving millions of users across Egypt and Saudi Arabia.
-
-<br/>
-
 
 ## 🛠️ Tech Stack
 
@@ -58,6 +25,7 @@
 |:---:|:---|
 | **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **AI-Assisted Dev** | `Claude Code` `MCP (Model Context Protocol)` `Figma-to-Flutter` `AI Pair-Programming` `Prompt Engineering` |
 | **Architecture** | `Clean Architecture` `MVVM` `Repository Pattern` `Modular Design` `SOLID` |
 | **State Management** | `BLoC (Expert)` `Cubit` `Provider` `Riverpod` `GetX` |
 | **Backend & APIs** | `REST` `GraphQL` `WebSocket` `Dio` `Retrofit` `JWT` `OAuth` |
@@ -68,6 +36,7 @@
 | **Security** | `Biometric Auth` `SSL Pinning` `Encryption` `RBAC` `Token Management` |
 | **CI/CD** | `GitHub Actions` `Fastlane` `Codemagic` `Firebase Distribution` |
 | **Testing** | `Unit` `Widget` `Integration` `E2E` `TDD` `Mockito` |
+| **Backend** *(learning)* | `REST API Design` `Server-Side Architecture` `Databases` |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 </div>
@@ -78,25 +47,25 @@
 
 ## 💼 Work Experience & Projects
 
-### <img src="https://img.shields.io/badge/01-0D1117?style=flat-square&logoColor=white" /> Aqarmap — Senior Flutter Developer
+### Aqarmap — Senior Flutter Developer
 
-> **Jan 2024 – Present** · Full-time · Remote · Cairo, Egypt
+> **Jan 2024 – Present** · Full-time · Hybrid · Cairo, Egypt
 >
-> Egypt's #1 real estate platform · `200K+ users` · `99.9% uptime` · `30% performance boost`
+> A leading Egyptian real estate platform · `200K+ users` · `2M+ monthly visitors` · `30% faster load times`
 
 <details>
-<summary>🏘️ <b>Aqarmap Egypt</b> — Real Estate Marketplace &nbsp;⭐ 4.2★ &nbsp;|&nbsp; 200K+ Users</summary>
+<summary>🏘️ <b>Aqarmap Egypt</b> — Real Estate Marketplace &nbsp;|&nbsp; 200K+ Users</summary>
 
 <br/>
 
-Egypt's leading real estate platform with **500K+ property listings**. Search, compare, and connect with verified agents.
+A leading Egyptian real estate platform with **200K+ property listings** and **2M+ monthly visitors**. Search, compare, and connect with verified agents.
 
 **What I Built:**
 - Advanced search engine with **15+ dynamic filters** (price, location, area, bedrooms, amenities)
 - Interactive map with **property clustering, heat maps**, and neighborhood analytics
 - Enhanced app performance by reducing load times and improving UI responsiveness
 - Delivered CRM solutions enabling real estate professionals to efficiently manage leads and clients
-- **30% faster** load times through performance optimization
+- **~30% faster** load times through performance optimization
 
 **Tech:** `Flutter` `BLoC` `Clean Architecture` `Google Maps API` `REST APIs` `Firebase Analytics` `Image Caching` `Lazy Loading`
 
@@ -112,7 +81,7 @@ Egypt's leading real estate platform with **500K+ property listings**. Search, c
 Localized real estate platform for the **Saudi Arabian market** with bilingual support and KSA-specific regulatory compliance.
 
 **What I Built:**
-- Adapted Egypt architecture for KSA market with localized features
+- Adapted the Egypt architecture for the KSA market with localized features
 - **Hijri calendar** integration for contract dates
 - Currency conversion and **investment ROI calculators**
 - Saudi Ejar platform integration for official rental contracts
@@ -125,7 +94,7 @@ Localized real estate platform for the **Saudi Arabian market** with bilingual s
 </details>
 
 <details>
-<summary>📊 <b>Aqarmap CRM (AM Live)</b> — Enterprise CRM &nbsp;⭐ 4.7★ &nbsp;|&nbsp; 100K+ Leads/Month</summary>
+<summary>📊 <b>Aqarmap CRM (AM Live)</b> — Enterprise CRM &nbsp;|&nbsp; 100K+ Leads/Month</summary>
 
 <br/>
 
@@ -146,24 +115,37 @@ Enterprise-grade CRM for real estate companies and brokers — managing leads, l
 
 ---
 
-### <img src="https://img.shields.io/badge/02-0D1117?style=flat-square&logoColor=white" /> Smartware — Senior Flutter Developer
+### Yseer (يسير) — Senior Flutter Developer
+
+> **Sep 2025 – Jun 2026** · Part-time · Remote · Riyadh, Saudi Arabia
+>
+> Saudi on-demand / logistics platform · Real-time transactions & booking flows
+
+- Delivered a **refund & transactions module** — mapped API flows and documented real-time **WebSocket / Pusher** events
+- Refactored booking and order flows for reliability while keeping a clean, modular architecture
+
+**Tech:** `Flutter` `BLoC` `REST` `WebSocket / Pusher`
+
+---
+
+### Smartware — Senior Flutter Developer & Team Lead
 
 > **Sep 2023 – Jan 2025** · Freelance · Remote · Riyadh, Saudi Arabia
 >
 > Promoted from developer to consulting & team management · Architecture decisions · Sprint planning
 
-- Transitioned from hands-on development to consulting role, providing technical direction and team leadership
-- Managed and mentored a development team, conducting code reviews, sprint planning, and architecture decisions
+- Transitioned from hands-on development to a **consulting/lead** role — technical direction and team leadership
+- Managed and mentored the team, running **code reviews, sprint planning, and architecture decisions**
 - Collaborated directly with stakeholders on requirement gathering, feature prioritization, and delivery roadmaps
 
-### <img src="https://img.shields.io/badge/02-0D1117?style=flat-square&logoColor=white" /> Smartware — Flutter Developer
+### Smartware — Flutter Developer
 
 > **Mar 2023 – Aug 2023** · Freelance · Remote · Riyadh, Saudi Arabia
 >
-> Enterprise HR & project management solutions · `50K+ employees` · `4.6★ rating` · `Clean Architecture from scratch`
+> Enterprise HR & project-management solutions · `50K+ employees` · `Clean Architecture from scratch`
 
 <details>
-<summary>💼 <b>TBS Self Services</b> — Employee HR Portal &nbsp;⭐ 4.6★ &nbsp;|&nbsp; 50K+ Employees</summary>
+<summary>💼 <b>TBS Self Services</b> — Employee HR Portal &nbsp;|&nbsp; 50K+ Employees</summary>
 
 <br/>
 
@@ -192,10 +174,10 @@ Comprehensive self-service HR app serving **50K+ employees** across multiple Sau
 **Tablet-first** project management platform for construction and engineering companies.
 
 **What I Built:**
-- Tablet-optimized UI leveraging large screen real estate
+- Tablet-optimized UI leveraging large-screen real estate
 - Interactive **Gantt chart** visualization for project timelines
 - Real-time collaboration with **WebSocket live updates**
-- Offline mode for construction site usage
+- Offline mode for construction-site usage
 - File management for project documents and blueprints
 
 **Features:** Gantt Charts · Task Tracking · Resource Allocation · Document Management · Team Collaboration · KPI Reporting
@@ -208,11 +190,11 @@ Comprehensive self-service HR app serving **50K+ employees** across multiple Sau
 
 ---
 
-### <img src="https://img.shields.io/badge/03-0D1117?style=flat-square&logoColor=white" /> NamaaIT — Flutter Developer & Team Lead
+### NamaaIT — Flutter Developer & Team Lead
 
 > **Jan 2022 – Dec 2023** · Full-time · Cairo, Egypt
 >
-> Led team of 3 · `7 production apps` · `4 countries` · Mentored juniors to mid-level · Scalable architecture
+> Led a team of 3 · `7 production apps` · `4 countries` · Mentored juniors to mid-level · Scalable architecture
 
 <details>
 <summary>💊 <b>Adam Pharmacy</b> — Online Pharmacy & Healthcare</summary>
@@ -222,11 +204,11 @@ Comprehensive self-service HR app serving **50K+ employees** across multiple Sau
 Saudi online pharmacy — **10K+ medicines** with home delivery, prescription verification, and medication reminders.
 
 **What I Built:**
-- Led mobile team of 3, coordinating **sprints, code reviews**, and technical guidance
+- Led the mobile team of 3, coordinating **sprints, code reviews**, and technical guidance
 - Architected scalable solutions integrating **REST APIs, Firebase services, and SQL databases**
 - Integrated payment gateways, real-time tracking, and push notifications
 - Managed project planning, requirement gathering, and task allocation
-- Mentored junior developers on Flutter best practices and clean code principles
+- Mentored junior developers on Flutter best practices and clean-code principles
 
 **Tech:** `Flutter` `Firebase` `REST APIs` `Payment Gateway` `OCR` `Push Notifications` `Google Maps`
 
@@ -239,7 +221,7 @@ Saudi online pharmacy — **10K+ medicines** with home delivery, prescription ve
 
 <br/>
 
-Kuwaiti retail brand — **5K+ products** across fashion and sports with loyalty program.
+Kuwaiti retail brand — **5K+ products** across fashion and sports with a loyalty program.
 
 **What I Built:**
 - Product catalog with advanced filtering and size guide
@@ -263,7 +245,7 @@ Turkish on-demand platform — connecting customers with professionals across ho
 **What I Built:**
 - **Dual-app system** (Customer + Service Provider)
 - Real-time booking with instant provider matching
-- Live location tracking for service provider arrival
+- Live location tracking for service-provider arrival
 - In-app chat and **Pusher real-time** order updates
 - Rating & review system with photo uploads
 
@@ -282,7 +264,7 @@ AI-powered medical assistant — symptom checking, doctor recommendations, and *
 
 **What I Built:**
 - AI symptom checker with intelligent health assessment
-- **HIPAA-compliant** medical records storage
+- **Encrypted** medical records storage with strict privacy controls
 - **Video consultations via WebRTC**
 - Appointment scheduling with calendar sync
 - End-to-end encryption for data security
@@ -317,7 +299,7 @@ All-in-one super app — food delivery, taxi, bill payments, groceries, and ente
 
 <br/>
 
-Egyptian fashion platform — modest wear, abayas, hijabs with **AR virtual try-on** and express delivery.
+Egyptian fashion platform — modest wear, abayas, and hijabs with **AR virtual try-on** and express delivery.
 
 **What I Built:**
 - High-quality image galleries with AR try-on for accessories
@@ -333,7 +315,7 @@ Egyptian fashion platform — modest wear, abayas, hijabs with **AR virtual try-
 
 ---
 
-### <img src="https://img.shields.io/badge/04-0D1117?style=flat-square&logoColor=white" /> EbtasmUAE — Flutter Developer
+### EbtasmUAE — Flutter Developer
 
 > **Jun 2021 – Dec 2021** · Freelance · Remote · United Arab Emirates
 >
@@ -361,7 +343,7 @@ Premium car care — nano ceramic coating, polishing, and mobile wash at home/of
 
 Marine services — diving trips, fishing charters, boat rentals, and diving courses.
 
-**What I Built:** Custom animations · Trip booking calendar · Equipment rental system · Interactive diving spot map
+**What I Built:** Custom animations · Trip booking calendar · Equipment rental system · Interactive diving-spot map
 
 **Tech:** `Flutter` `Custom Animations` `Google Maps` `REST APIs`
 
@@ -441,7 +423,21 @@ Kids' platform — clothing, toys, educational products, and baby essentials.
     └── Mappers
 ```
 
-**Why it works:** 100% testable code · Easy maintenance · Clear separation of concerns · Reusable business logic · Framework independence
+**Why it works:** highly testable code · easy maintenance · clear separation of concerns · reusable business logic · framework independence
+
+</details>
+
+<details>
+<summary><b>🤖 AI-Assisted Development — How I Work</b></summary>
+
+<br/>
+
+I integrate AI deeply into my day-to-day engineering to move faster **without** sacrificing code quality:
+
+- **Claude Code (CLI)** — automating boilerplate, tests, refactors, and documentation
+- **MCP (Model Context Protocol)** integrations — including **Figma-to-Flutter** to turn designs into production UI with consistent architecture
+- **AI-powered product features** shipped in real apps (e.g., an AI medical symptom checker, smart recommendations)
+- AI-assisted **code review & rapid prototyping** — cutting delivery time while raising quality
 
 </details>
 
@@ -502,13 +498,6 @@ flutter run
 
 <div align="center">
 
-<br/>
-
-[![Hire Me](https://img.shields.io/badge/✦_Open_to_Opportunities-2563EB?style=for-the-badge)](mailto:saqrelfirgany@gmail.com)
-[![Freelance](https://img.shields.io/badge/✦_Freelance_Welcome-059669?style=for-the-badge)](mailto:saqrelfirgany@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
+<img width="2000" height="208" alt="footer" src="https://github.com/user-attachments/assets/1a280d9f-f45e-4f9b-9948-db79dee28416" />
 
 </div>
