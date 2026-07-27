@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2000" height="600" alt="hero" src="https://github.com/user-attachments/assets/cd5ba230-7bd2-44fb-aecb-909a311b5139" />
+<img width="1584" height="396" alt="2_cover_LinkedIn_1584x396" src="https://github.com/user-attachments/assets/c147379c-1ac3-465b-a65b-aba06d235dd1" />
 
 <br/><br/>
 
