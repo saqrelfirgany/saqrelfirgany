@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="mailto:saqrelfirgany@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0B1120" /></a>
-<a href="https://www.linkedin.com/in/ahmed-elfirgany-a71635396/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0B1120" /></a>
+<a href="https://www.linkedin.com/in/saqrelfirgany/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0B1120" /></a>
 <a href="https://dev.to/saqrelfirgany"><img src="https://img.shields.io/badge/dev.to-0B1120?style=flat-square&logo=devdotto&logoColor=white&labelColor=0B1120" /></a>
 <a href="https://x.com/saqrelfirgany"><img src="https://img.shields.io/badge/X-0B1120?style=flat-square&logo=x&logoColor=white&labelColor=0B1120" /></a>
 <a href="https://www.facebook.com/saqrelfirgany"><img src="https://img.shields.io/badge/Facebook-0B1120?style=flat-square&logo=facebook&logoColor=0866FF&labelColor=0B1120" /></a>
