@@ -493,7 +493,7 @@ flutter run
 
 | | Details |
 |:---|:---|
-| 🎓 **B.Sc. Computer Science — IT** | Sinai University, Al-Arish, Egypt (2016–2020) · GPA: 3.14/4.0 · Graduation Project: **A+** |
+| 🎓 **B.Sc. Computer Science — IT** | Sinai University, Al-Arish, Egypt (2016–2020) · GPA: 3.16/4.0 · Graduation Project: **A+** |
 | 🎖️ **Military Service** | Egyptian Armed Forces (Nov 2020 – Dec 2021) |
 | 📜 **Flutter Development Bootcamp** | Udemy (2021) |
 | 📜 **One Million Arab Coders** | Udacity / MBRGI — Data Analysis Track (2019) |
