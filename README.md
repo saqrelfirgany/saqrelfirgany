@@ -73,7 +73,7 @@ A leading Egyptian real estate platform with **200K+ property listings** and **2
 
 **Tech:** `Flutter` `BLoC` `Clean Architecture` `Google Maps API` `REST APIs` `Firebase Analytics` `Image Caching` `Lazy Loading`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aqarmap.android) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/aqarmap-egypt/id642633889)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aqarmap.android) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id642633889)
 
 </details>
 
@@ -93,7 +93,7 @@ Localized real estate platform for the **Saudi Arabian market** with bilingual s
 
 **Tech:** `Flutter` `BLoC` `Clean Architecture` `Localization (l10n)` `RTL Support` `REST APIs` `Firebase`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aqarmap.invest) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1%D9%85%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/id6470154017)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aqarmap.invest) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6470154017)
 
 </details>
 
@@ -113,7 +113,7 @@ Enterprise-grade CRM for real estate companies and brokers — managing leads, l
 
 **Tech:** `Flutter` `BLoC` `Clean Architecture` `SQLite` `Push Notifications` `Firebase Messaging` `Background Services`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.project.aqarmap.crm) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/am-live-companies-only/id1271197604)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.project.aqarmap.crm) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id1271197604)
 
 </details>
 
@@ -166,7 +166,7 @@ Comprehensive self-service HR app serving **50K+ employees** across multiple Sau
 
 **Tech:** `Flutter` `Clean Architecture` `BLoC` `Biometric Auth` `REST APIs` `Secure Storage` `Localization`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.takamoltbs.selfservices) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/sa/app/tbs-self-services/id6447533663)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.takamoltbs.selfservices) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6447533663)
 
 </details>
 
@@ -188,7 +188,7 @@ Comprehensive self-service HR app serving **50K+ employees** across multiple Sau
 
 **Tech:** `Flutter` `Tablet UI` `WebSockets` `BLoC` `Custom Widgets` `Chart Libraries` `Offline-First`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.takamoltbs.epm) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/sa/app/tbs-epm/id6450037705)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.takamoltbs.epm) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6450037705)
 
 </details>
 
@@ -216,7 +216,7 @@ Saudi online pharmacy — **10K+ medicines** with home delivery, prescription ve
 
 **Tech:** `Flutter` `Firebase` `REST APIs` `Payment Gateway` `OCR` `Push Notifications` `Google Maps`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.adampharmacy) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/adam-pharmacy/id1672276218)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.adampharmacy) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id1672276218)
 
 </details>
 
@@ -235,7 +235,7 @@ Kuwaiti retail brand — **5K+ products** across fashion and sports with a loyal
 
 **Tech:** `Flutter` `Provider` `REST APIs` `Payment Integration` `Deep Linking` `Firebase Analytics`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.alnasser) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/alnasser/id6443395471)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.alnasser)
 
 </details>
 
@@ -255,46 +255,7 @@ Turkish on-demand platform — connecting customers with professionals across ho
 
 **Tech:** `Flutter` `BLoC` `Pusher` `Google Maps` `Real-time Tracking` `Firebase Messaging` `In-App Chat`
 
-[![Customer App](https://img.shields.io/badge/Customer_App-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/bizburadayiz/id1625847498) [![Driver App](https://img.shields.io/badge/Driver_App-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz.driver) [![Driver App Store](https://img.shields.io/badge/Driver_App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/bizburadayiz-driver/id1625847870)
-
-</details>
-
-<details>
-<summary>🏥 <b>Approved KSA</b> — AI Medical Assistant</summary>
-
-<br/>
-
-AI-powered medical assistant — symptom checking, doctor recommendations, and **telemedicine consultations**.
-
-**What I Built:**
-- AI symptom checker with intelligent health assessment
-- **Encrypted** medical records storage with strict privacy controls
-- **Video consultations via WebRTC**
-- Appointment scheduling with calendar sync
-- End-to-end encryption for data security
-
-**Tech:** `Flutter` `WebRTC` `Firebase` `AI Integration` `Secure Storage` `Encryption` `Video Calling`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.approved) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/approved-ksa/id1668993553)
-
-</details>
-
-<details>
-<summary>🚖 <b>ObourHub</b> — Lifestyle Super App</summary>
-
-<br/>
-
-All-in-one super app — food delivery, taxi, bill payments, groceries, and entertainment for Obour City.
-
-**What I Built:**
-- **Modular architecture** with 5 independent service modules
-- Unified checkout handling multiple service types
-- Real-time delivery tracking across all services
-- Unified notification system and loyalty program
-
-**Tech:** `Flutter` `GetX` `Modular Architecture` `Payment Gateway` `Google Maps` `Push Notifications`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.obourhub) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/obourhub-%D8%B9%D8%A8%D9%88%D8%B1-%D9%87%D8%A8/id1611180550)
+[![Customer App](https://img.shields.io/badge/Customer_App-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz) [![Driver App](https://img.shields.io/badge/Driver_App-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.bizburadayiz.driver)
 
 </details>
 
@@ -313,7 +274,7 @@ Egyptian fashion platform — modest wear, abayas, and hijabs with **AR virtual 
 
 **Tech:** `Flutter` `Provider` `AR Integration` `REST APIs` `Firebase` `Payment Gateway`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.namaait.deodela) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/deodela-%D8%AF%D9%8A-%D8%A3%D9%88%D8%AF%D9%8A%D9%84%D8%A7/id1527901120)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id1527901120)
 
 </details>
 
@@ -326,21 +287,6 @@ Egyptian fashion platform — modest wear, abayas, and hijabs with **AR virtual 
 > 5 production apps · Consumer & business apps across automotive, retail, and kids' products · Scalable state management
 
 <details>
-<summary>🚗 <b>Mr Nano</b> — Car Care Services</summary>
-
-<br/>
-
-Premium car care — nano ceramic coating, polishing, and mobile wash at home/office.
-
-**What I Built:** Delivered consumer and business apps across automotive, retail, and kids' products · Gained expertise in Flutter animations, custom widgets, and scalable state management
-
-**Tech:** `Flutter` `Google Maps` `REST APIs` `Push Notifications`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ebtasm.mrnano)
-
-</details>
-
-<details>
 <summary>🌊 <b>Bhr</b> — Ocean Adventure Platform</summary>
 
 <br/>
@@ -351,52 +297,23 @@ Marine services — diving trips, fishing charters, boat rentals, and diving cou
 
 **Tech:** `Flutter` `Custom Animations` `Google Maps` `REST APIs`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ebtasm.bhr) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/bhr/id1641237623)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ebtasm.bhr)
 
 </details>
 
 <details>
-<summary>🔨 <b>Mazadi</b> — Online Auction Platform</summary>
+<summary>🔨 <b>Other EbtasmUAE apps</b> — auctions, specialty retail, kids e-commerce, car care</summary>
 
 <br/>
 
-Real-time auctions — electronics, fashion, and luxury items with live bidding.
+Four more apps shipped in this period. They have since been taken down from the stores by their owners, so there is nothing left to link — the engineering below is what carried over.
 
-**What I Built:** Real-time bidding via WebSocket · Countdown timer widgets · Auto-bid functionality · Payment escrow
+- **Real-time auction platform** — live bidding over WebSocket, countdown timers driven by the **server clock rather than the device clock** so the countdown cannot be gamed, auto-bid, and payment held in escrow until the buyer receives the item
+- **Specialty retail (coffee & tea)** — catalog, interactive brewing guides, subscription billing, recommendation engine
+- **Kids e-commerce** — age-based filtering, size guide, gift registry, animation-heavy child-friendly UI
+- **Car care services** — at-home booking with location matching and push updates
 
-**Tech:** `Flutter` `WebSocket` `Real-time` `Payment Integration`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ebtasm.mazadi) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mazadi/id1602820215)
-
-</details>
-
-<details>
-<summary>☕ <b>Coffee & Tea</b> — Specialty Retail</summary>
-
-<br/>
-
-Premium coffee & tea — beans, loose-leaf teas, brewing equipment, and subscriptions.
-
-**What I Built:** Elegant product catalog · Interactive brewing guides · Subscription model · Recommendation engine
-
-**Tech:** `Flutter` `REST APIs` `Firebase` `Payment Integration`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ebtasm.coffeetea) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/coffee-and-tea/id1619178774)
-
-</details>
-
-<details>
-<summary>👶 <b>Hisn Alatfal</b> — Kids E-commerce</summary>
-
-<br/>
-
-Kids' platform — clothing, toys, educational products, and baby essentials.
-
-**What I Built:** Child-friendly UI with animations · Age-based filtering · Size guide · Gift registry
-
-**Tech:** `Flutter` `Custom Animations` `REST APIs` `Firebase`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ebtasm.kids_castle) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/hisn-alatfal/id1629217103)
+**Tech:** `Flutter` `WebSocket` `Real-time` `Custom Animations` `Google Maps` `Payment Integration`
 
 </details>
 
@@ -411,20 +328,20 @@ Kids' platform — clothing, toys, educational products, and baby essentials.
 
 ```
 📱 Presentation Layer
-│   ├── Screens / Pages
-│   ├── Widgets
-│   └── BLoC / Cubit (State Management)
+│ ├── Screens / Pages
+│ ├── Widgets
+│ └── BLoC / Cubit (State Management)
 │
 💼 Domain Layer
-│   ├── Entities
-│   ├── Use Cases
-│   └── Repository Interfaces
+│ ├── Entities
+│ ├── Use Cases
+│ └── Repository Interfaces
 │
 🗄️ Data Layer
-    ├── Models
-    ├── Repository Implementations
-    ├── Data Sources (Remote / Local)
-    └── Mappers
+├── Models
+├── Repository Implementations
+├── Data Sources (Remote / Local)
+└── Mappers
 ```
 
 **Why it works:** highly testable code · easy maintenance · clear separation of concerns · reusable business logic · framework independence
