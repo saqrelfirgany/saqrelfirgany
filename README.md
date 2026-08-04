@@ -17,7 +17,7 @@
 
 <br/>
 
-> **Senior Flutter Developer & Mobile Software Engineer** — 5+ years shipping **22+ production apps** (200K+ users across 5 countries) with **Clean Architecture & BLoC**, an **AI-assisted workflow** (Claude Code · MCP), and a track record of leading mobile teams. Currently **expanding into backend** for full-stack delivery.
+> **Senior Flutter Developer & Mobile Software Engineer** — 5+ years shipping **17 production apps** (11 still live, 600K+ downloads across 5 countries) with **Clean Architecture & BLoC**, an **AI-assisted workflow** (Claude Code · MCP), and a track record of leading mobile teams. Currently **expanding into backend** for full-stack delivery.
 
 <br/>
 
@@ -55,14 +55,14 @@
 
 > **Jan 2024 – Present** · Full-time · Hybrid · Cairo, Egypt
 >
-> A leading Egyptian real estate platform · `200K+ users` · `2M+ monthly visitors` · `30% faster load times`
+> A leading Egyptian real estate platform · `500K+ downloads` · `200K+ listings` · `~30% faster load times`
 
 <details>
-<summary>🏘️ <b>Aqarmap Egypt</b> — Real Estate Marketplace &nbsp;|&nbsp; 200K+ Users</summary>
+<summary>🏘️ <b>Aqarmap Egypt</b> — Real Estate Marketplace &nbsp;|&nbsp; 500K+ Downloads</summary>
 
 <br/>
 
-A leading Egyptian real estate platform with **200K+ property listings** and **2M+ monthly visitors**. Search, compare, and connect with verified agents.
+A leading Egyptian real estate platform with **200K+ property listings** and **500K+ downloads on Google Play**. Search, compare, and connect with verified agents.
 
 **What I Built:**
 - Advanced search engine with **15+ dynamic filters** (price, location, area, bedrooms, amenities)
@@ -113,7 +113,7 @@ Enterprise-grade CRM for real estate companies and brokers — managing leads, l
 
 **Tech:** `Flutter` `BLoC` `Clean Architecture` `SQLite` `Push Notifications` `Firebase Messaging` `Background Services`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.project.aqarmap.crm) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id1271197604)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.project.aqarmap.crm) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/id1271197604)
 
 </details>
 
@@ -146,14 +146,14 @@ Enterprise-grade CRM for real estate companies and brokers — managing leads, l
 
 > **Mar 2023 – Aug 2023** · Freelance · Remote · Riyadh, Saudi Arabia
 >
-> Enterprise HR & project-management solutions · `50K+ employees` · `Clean Architecture from scratch`
+> Enterprise HR & project-management solutions · `Tablet + mobile` · `Clean Architecture from scratch`
 
 <details>
-<summary>💼 <b>TBS Self Services</b> — Employee HR Portal &nbsp;|&nbsp; 50K+ Employees</summary>
+<summary>💼 <b>TBS Self Services</b> — Employee HR Portal</summary>
 
 <br/>
 
-Comprehensive self-service HR app serving **50K+ employees** across multiple Saudi organizations.
+Comprehensive self-service HR app for Saudi organizations — built from scratch, tablet and mobile.
 
 **What I Built:**
 - Architected and developed **from scratch** using Clean Architecture
@@ -205,7 +205,7 @@ Comprehensive self-service HR app serving **50K+ employees** across multiple Sau
 
 <br/>
 
-Saudi online pharmacy — **10K+ medicines** with home delivery, prescription verification, and medication reminders.
+Saudi online pharmacy — home delivery, camera-based prescription reading, and medication reminders.
 
 **What I Built:**
 - Led the mobile team of 3, coordinating **sprints, code reviews**, and technical guidance
@@ -225,7 +225,7 @@ Saudi online pharmacy — **10K+ medicines** with home delivery, prescription ve
 
 <br/>
 
-Kuwaiti retail brand — **5K+ products** across fashion and sports with a loyalty program.
+Kuwaiti retail brand — fashion and sports retail with a loyalty program and campaign deep links.
 
 **What I Built:**
 - Product catalog with advanced filtering and size guide
@@ -274,7 +274,7 @@ Egyptian fashion platform — modest wear, abayas, and hijabs with **AR virtual 
 
 **Tech:** `Flutter` `Provider` `AR Integration` `REST APIs` `Firebase` `Payment Gateway`
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id1527901120)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id1527901120)
 
 </details>
 
@@ -391,7 +391,7 @@ Custom Painting & Canvas · Platform Channels (iOS/Android native) · Isolates &
 
 ### [Flutter Enterprise Template](https://github.com/saqrelfirgany/flutter_template)
 
-> Production-ready boilerplate used by **100+ developers** globally
+> Production-ready boilerplate — the starter I build new client apps on
 
 ![Stars](https://img.shields.io/github/stars/saqrelfirgany/flutter_template?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/saqrelfirgany/flutter_template?style=flat-square&color=3b82f6) ![Issues](https://img.shields.io/github/issues/saqrelfirgany/flutter_template?style=flat-square&color=ef4444)
 
