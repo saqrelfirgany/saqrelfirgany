@@ -259,25 +259,6 @@ Turkish on-demand platform — connecting customers with professionals across ho
 
 </details>
 
-<details>
-<summary>👗 <b>De'Odela</b> — Fashion E-commerce</summary>
-
-<br/>
-
-Egyptian fashion platform — modest wear, abayas, and hijabs with **AR virtual try-on** and express delivery.
-
-**What I Built:**
-- High-quality image galleries with AR try-on for accessories
-- Personalized style recommendation engine
-- Size prediction based on purchase history
-- Same-day express delivery integration
-
-**Tech:** `Flutter` `Provider` `AR Integration` `REST APIs` `Firebase` `Payment Gateway`
-
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id1527901120)
-
-</details>
-
 ---
 
 ### EbtasmUAE — Flutter Developer
