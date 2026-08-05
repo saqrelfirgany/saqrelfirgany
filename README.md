@@ -1,3 +1,8 @@
+<!-- مرآة لريدمي بروفايل جيت هاب. المنشور هو المرجع:
+     https://github.com/saqrelfirgany/saqrelfirgany/blob/main/README.md
+     آخر مزامنة: 2026-08-04 (بعد قرار «+15 تطبيق») — اتنشر من هنا في نفس اليوم.
+     الأرقام كلها من canon.yml, ولينكات المتاجر الـ17 اتفتحت واحد واحد 2026-08-04. -->
+
 <div align="center">
 
 <img width="1584" height="396" alt="2_cover_LinkedIn_1584x396" src="https://github.com/user-attachments/assets/c147379c-1ac3-465b-a65b-aba06d235dd1" />
@@ -17,7 +22,13 @@
 
 <br/>
 
-> **Senior Flutter Developer & Mobile Software Engineer** — 5+ years shipping **15+ apps** (600K+ downloads across 5 countries) with **Clean Architecture & BLoC**, an **AI-assisted workflow** (Claude Code · MCP), and a track record of leading mobile teams. Currently **expanding into backend** for full-stack delivery.
+> **Ahmed ElFirgany · Software Engineer · Mobile Expert**
+>
+> Senior Flutter Developer.
+>
+> 5+ years building iOS and Android apps that shipped. **15+ apps · 600K+ downloads · 5 countries.**
+>
+> Clean Architecture and BLoC. A mobile team of three.
 
 <br/>
 
@@ -31,7 +42,7 @@
 | **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **AI-Assisted Dev** | `Claude Code` `MCP (Model Context Protocol)` `Figma-to-Flutter` `AI Pair-Programming` `Prompt Engineering` |
 | **Architecture** | `Clean Architecture` `MVVM` `Repository Pattern` `Modular Design` `SOLID` |
-| **State Management** | `BLoC (Expert)` `Cubit` `Provider` `Riverpod` `GetX` |
+| **State Management** | `BLoC` `Cubit` `Provider` `Riverpod` `GetX` |
 | **Backend & APIs** | `REST` `GraphQL` `WebSocket` `Dio` `Retrofit` `JWT` `OAuth` |
 | **Firebase** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) Auth · Firestore · Storage · Analytics · FCM |
 | **Database** | `SQLite` `Hive` `SQL` `Secure Storage` |
@@ -40,7 +51,6 @@
 | **Security** | `Biometric Auth` `SSL Pinning` `Encryption` `RBAC` `Token Management` |
 | **CI/CD** | `GitHub Actions` `Fastlane` `Codemagic` `Firebase Distribution` |
 | **Testing** | `Unit` `Widget` `Integration` `E2E` `TDD` `Mockito` |
-| **Backend** *(learning)* | `REST API Design` `Server-Side Architecture` `Databases` |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 </div>
@@ -55,20 +65,18 @@
 
 > **Jan 2024 – Present** · Full-time · Hybrid · Cairo, Egypt
 >
-> A leading Egyptian real estate platform · `500K+ downloads` · `200K+ listings` · `~30% faster load times`
+> Egyptian real estate marketplace · `500K+ downloads` · `200K+ listings` · `~30% faster load times`
 
 <details>
 <summary>🏘️ <b>Aqarmap Egypt</b> — Real Estate Marketplace &nbsp;|&nbsp; 500K+ Downloads</summary>
 
 <br/>
 
-A leading Egyptian real estate platform with **200K+ property listings** and **500K+ downloads on Google Play**. Search, compare, and connect with verified agents.
+Egyptian real estate marketplace with **200K+ property listings** and **500K+ downloads on Google Play**. Buyers search, compare, and contact verified agents.
 
 **What I Built:**
 - Advanced search engine with **15+ dynamic filters** (price, location, area, bedrooms, amenities)
 - Interactive map with **property clustering, heat maps**, and neighborhood analytics
-- Enhanced app performance by reducing load times and improving UI responsiveness
-- Delivered CRM solutions enabling real estate professionals to efficiently manage leads and clients
 - **~30% faster** load times through performance optimization
 
 **Tech:** `Flutter` `BLoC` `Clean Architecture` `Google Maps API` `REST APIs` `Firebase Analytics` `Image Caching` `Lazy Loading`
@@ -82,14 +90,14 @@ A leading Egyptian real estate platform with **200K+ property listings** and **5
 
 <br/>
 
-Localized real estate platform for the **Saudi Arabian market** with bilingual support and KSA-specific regulatory compliance.
+Real estate platform for the **Saudi Arabian market**. It runs in Arabic and English, and follows Saudi property regulations.
 
 **What I Built:**
-- Adapted the Egypt architecture for the KSA market with localized features
+- Shared codebase with Aqarmap Egypt, split by market
 - **Hijri calendar** integration for contract dates
 - Currency conversion and **investment ROI calculators**
 - Saudi Ejar platform integration for official rental contracts
-- Full **bilingual UI (Arabic/English)** with seamless RTL support
+- Full **bilingual UI (Arabic/English)** with RTL layout support
 
 **Tech:** `Flutter` `BLoC` `Clean Architecture` `Localization (l10n)` `RTL Support` `REST APIs` `Firebase`
 
@@ -102,11 +110,11 @@ Localized real estate platform for the **Saudi Arabian market** with bilingual s
 
 <br/>
 
-Enterprise-grade CRM for real estate companies and brokers — managing leads, listings, viewings, and sales reports.
+CRM for real estate companies and brokers. Agents manage leads, listings, viewings, and sales reports.
 
 **What I Built:**
 - Complete **5-stage lead pipeline** (New → Contacted → Qualified → Negotiation → Closed)
-- **Offline-first architecture** — agents work without internet
+- **Offline mode** — agents work with no internet, and data syncs when it returns
 - Real-time notifications for lead activities and client inquiries
 - Calendar sync with **automated follow-up reminders**
 - Analytics dashboard with performance metrics and conversion rates
@@ -125,7 +133,7 @@ Enterprise-grade CRM for real estate companies and brokers — managing leads, l
 >
 > Saudi on-demand / logistics platform · Real-time transactions & booking flows
 
-- Delivered a **refund & transactions module** — mapped API flows and documented real-time **WebSocket / Pusher** events
+- Delivered a **refund & transactions module**. Mapped the API flows and documented the real-time **WebSocket / Pusher** events
 - Refactored booking and order flows for reliability while keeping a clean, modular architecture
 
 **Tech:** `Flutter` `BLoC` `REST` `WebSocket / Pusher`
@@ -138,7 +146,6 @@ Enterprise-grade CRM for real estate companies and brokers — managing leads, l
 >
 > Promoted from developer to consulting & team management · Architecture decisions · Sprint planning
 
-- Transitioned from hands-on development to a **consulting/lead** role — technical direction and team leadership
 - Managed and mentored the team, running **code reviews, sprint planning, and architecture decisions**
 - Collaborated directly with stakeholders on requirement gathering, feature prioritization, and delivery roadmaps
 
@@ -149,56 +156,55 @@ Enterprise-grade CRM for real estate companies and brokers — managing leads, l
 > Enterprise HR & project-management solutions · `Tablet + mobile` · `Clean Architecture from scratch`
 
 <details>
-<summary>💼 <b>TBS Self Services</b> — Employee HR Portal</summary>
+<summary>💼 <b>Employee Self-Service HR App</b> — Saudi enterprise, under NDA</summary>
 
 <br/>
 
-Comprehensive self-service HR app for Saudi organizations — built from scratch, tablet and mobile.
+A self-service HR app for a Saudi organization. Built from scratch, for tablet and mobile.
 
 **What I Built:**
-- Architected and developed **from scratch** using Clean Architecture
-- Built **responsive UI** that seamlessly adapts between tablet and mobile form factors
+- Clean Architecture, built from scratch
+- Responsive UI for tablet and mobile
 - Secure auth with **biometric login** (Face ID / Fingerprint)
 - Multi-language (AR/EN) with full **RTL layout**
-- Collaborated directly with stakeholders on requirement gathering, sprint planning, and feature prioritization
 
 **Features:** Leave Management · Payroll & Salary Slips · Attendance & Clock In/Out · Document Requests · Internal Communication
 
 **Tech:** `Flutter` `Clean Architecture` `BLoC` `Biometric Auth` `REST APIs` `Secure Storage` `Localization`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.takamoltbs.selfservices) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6447533663)
+_Client under NDA, so no store links._
 
 </details>
 
 <details>
-<summary>📊 <b>TBS EPM</b> — Enterprise Project Management (Tablet)</summary>
+<summary>📊 <b>Project Management Platform</b> — construction & engineering, under NDA</summary>
 
 <br/>
 
 **Tablet-first** project management platform for construction and engineering companies.
 
 **What I Built:**
-- Tablet-optimized UI leveraging large-screen real estate
-- Interactive **Gantt chart** visualization for project timelines
+- Tablet-optimized UI that uses the extra screen space
+- Interactive project timeline — drag a bar to move a task's dates
 - Real-time collaboration with **WebSocket live updates**
 - Offline mode for construction-site usage
 - File management for project documents and blueprints
 
-**Features:** Gantt Charts · Task Tracking · Resource Allocation · Document Management · Team Collaboration · KPI Reporting
+**Features:** Project Timelines · Task Tracking · Resource Allocation · Document Management · Team Collaboration · KPI Reporting
 
 **Tech:** `Flutter` `Tablet UI` `WebSockets` `BLoC` `Custom Widgets` `Chart Libraries` `Offline-First`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.takamoltbs.epm) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6450037705)
+_Client under NDA, so no store links._
 
 </details>
 
 ---
 
-### NamaaIT — Flutter Developer & Team Lead
+### Software House, Cairo — Flutter Developer & Team Lead
 
 > **Jan 2022 – Dec 2023** · Full-time · Cairo, Egypt
 >
-> Led a team of 3 · `7 production apps` · `4 countries` · Mentored juniors to mid-level · Scalable architecture
+> Led a team of 3 · `7 apps shipped` · `4 countries` · Mentored juniors to mid-level · Scalable architecture
 
 <details>
 <summary>💊 <b>Adam Pharmacy</b> — Online Pharmacy & Healthcare</summary>
@@ -208,11 +214,10 @@ Comprehensive self-service HR app for Saudi organizations — built from scratch
 Saudi online pharmacy — home delivery, camera-based prescription reading, and medication reminders.
 
 **What I Built:**
-- Led the mobile team of 3, coordinating **sprints, code reviews**, and technical guidance
-- Architected scalable solutions integrating **REST APIs, Firebase services, and SQL databases**
-- Integrated payment gateways, real-time tracking, and push notifications
-- Managed project planning, requirement gathering, and task allocation
-- Mentored junior developers on Flutter best practices and clean-code principles
+- Camera reading of handwritten prescriptions, with a pharmacist confirm step
+- Image pre-processing so a phone photo is readable before it is parsed
+- Live order tracking and medication reminders
+- Payment gateway, push notifications, and delivery integration
 
 **Tech:** `Flutter` `Firebase` `REST APIs` `Payment Gateway` `OCR` `Push Notifications` `Google Maps`
 
@@ -225,12 +230,12 @@ Saudi online pharmacy — home delivery, camera-based prescription reading, and 
 
 <br/>
 
-Kuwaiti retail brand — fashion and sports retail with a loyalty program and campaign deep links.
+Kuwaiti fashion and sports retail brand. Shoppers earn loyalty points, and campaign links open the right product.
 
 **What I Built:**
 - Product catalog with advanced filtering and size guide
 - Loyalty points system and exclusive member discounts
-- Seamless checkout with multiple payment methods
+- Checkout with multiple payment methods
 - Deep linking for marketing campaigns
 
 **Tech:** `Flutter` `Provider` `REST APIs` `Payment Integration` `Deep Linking` `Firebase Analytics`
@@ -259,13 +264,32 @@ Turkish on-demand platform — connecting customers with professionals across ho
 
 </details>
 
+<details>
+<summary>👗 <b>De'Odela</b> — Fashion E-commerce</summary>
+
+<br/>
+
+Egyptian fashion platform — modest wear, abayas, and hijabs. **AR virtual try-on** and express delivery.
+
+**What I Built:**
+- High-quality image galleries with AR try-on for accessories
+- Personalized style recommendation engine
+- Size prediction based on purchase history
+- Same-day express delivery integration
+
+**Tech:** `Flutter` `Provider` `AR Integration` `REST APIs` `Firebase` `Payment Gateway`
+
+_The owner has since taken this one down, so there is nothing left to link._
+
+</details>
+
 ---
 
 ### EbtasmUAE — Flutter Developer
 
 > **Jun 2021 – Dec 2021** · Freelance · Remote · United Arab Emirates
 >
-> 5 production apps · Consumer & business apps across automotive, retail, and kids' products · Scalable state management
+> 5 apps shipped · Automotive, retail and kids' products · Scalable state management
 
 <details>
 <summary>🌊 <b>Bhr</b> — Ocean Adventure Platform</summary>
@@ -274,11 +298,15 @@ Turkish on-demand platform — connecting customers with professionals across ho
 
 Marine services — diving trips, fishing charters, boat rentals, and diving courses.
 
-**What I Built:** Custom animations · Trip booking calendar · Equipment rental system · Interactive diving-spot map
+**What I Built:**
+- Trip booking calendar, with availability checked on the server
+- Equipment rental with stock tracking
+- Interactive map of diving spots
+- Hand-drawn transitions between screens
 
 **Tech:** `Flutter` `Custom Animations` `Google Maps` `REST APIs`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ebtasm.bhr)
+_The owner has since taken this one down, so there is nothing left to link._
 
 </details>
 
@@ -287,9 +315,9 @@ Marine services — diving trips, fishing charters, boat rentals, and diving cou
 
 <br/>
 
-Four more apps shipped in this period. They have since been taken down from the stores by their owners, so there is nothing left to link — the engineering below is what carried over.
+Four more apps shipped in this period. Their owners have since taken them down, so there is nothing left to link. The engineering below is what carried over.
 
-- **Real-time auction platform** — live bidding over WebSocket, countdown timers driven by the **server clock rather than the device clock** so the countdown cannot be gamed, auto-bid, and payment held in escrow until the buyer receives the item
+- **Real-time auction platform** — live bidding over WebSocket, with auto-bid. Countdown timers run on the **server clock, not the device clock**. Nobody can game a deadline by changing their device time. Escrow holds the payment until the buyer receives the item
 - **Specialty retail (coffee & tea)** — catalog, interactive brewing guides, subscription billing, recommendation engine
 - **Kids e-commerce** — age-based filtering, size guide, gift registry, animation-heavy child-friendly UI
 - **Car care services** — at-home booking with location matching and push updates
@@ -325,7 +353,7 @@ Four more apps shipped in this period. They have since been taken down from the 
 └── Mappers
 ```
 
-**Why it works:** highly testable code · easy maintenance · clear separation of concerns · reusable business logic · framework independence
+**What it buys me:** a new client app starts wired. DI, routing, theming, and tests.
 
 </details>
 
@@ -334,12 +362,12 @@ Four more apps shipped in this period. They have since been taken down from the 
 
 <br/>
 
-I integrate AI deeply into my day-to-day engineering to move faster **without** sacrificing code quality:
+I use AI into my day-to-day engineering to move faster **without** sacrificing code quality:
 
 - **Claude Code (CLI)** — automating boilerplate, tests, refactors, and documentation
-- **MCP (Model Context Protocol)** integrations — including **Figma-to-Flutter** to turn designs into production UI with consistent architecture
-- **AI-powered product features** shipped in real apps (e.g., an AI medical symptom checker, smart recommendations)
-- AI-assisted **code review & rapid prototyping** — cutting delivery time while raising quality
+- **MCP (Model Context Protocol)** integrations, including **Figma-to-Flutter**. It turns a design file into Flutter UI that matches the project architecture
+- **AI-assisted delivery** — I use Claude Code and MCP daily for boilerplate, tests, and refactors
+- AI-assisted **code review and rapid prototyping**
 
 </details>
 
@@ -372,7 +400,7 @@ Custom Painting & Canvas · Platform Channels (iOS/Android native) · Isolates &
 
 ### [Flutter Enterprise Template](https://github.com/saqrelfirgany/flutter_template)
 
-> Production-ready boilerplate — the starter I build new client apps on
+> The starter I build new client apps on — three-layer Clean Architecture, BLoC, DI, tests
 
 ![Stars](https://img.shields.io/github/stars/saqrelfirgany/flutter_template?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/saqrelfirgany/flutter_template?style=flat-square&color=3b82f6) ![Issues](https://img.shields.io/github/issues/saqrelfirgany/flutter_template?style=flat-square&color=ef4444)
 
