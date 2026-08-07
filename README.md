@@ -62,9 +62,173 @@
 
 ## 💼 Work Experience & Projects
 
+### TechnoIsland — Senior Flutter Developer
+
+> **Apr 2025 – Present** · Full-time · Cairo, Egypt
+>
+> Three apps on both stores in 14 months · `Clean Architecture` · `Offline-first` · `RBAC`
+
+I own the mobile codebase for three products here. I also wrote the Flutter standard the team builds on.
+
+<details>
+<summary>🏥 <b>Dacttra — Clinic Management</b> — the app clinic staff run the day on</summary>
+
+<br/>
+
+Clinic staff and owners run the day from the phone.
+
+Appointments · patient records · billing · branches · subscriptions.
+
+**What I built:**
+- Role-based access across **17 modules × 5 actions**, with the role switchable at runtime
+- Multi-branch isolation — every request carries the active branch and its timezone
+- Arabic **RTL invoices rendered as PDF on the device**, no server round-trip
+- A day board for the waiting list, and appointment editing without a reload
+
+**Hardest part:** switching role or branch changes what the whole app may read and write. Doing it without a restart meant one permission source, read by every screen.
+
+**Scale:** `203 feature modules` · `186 endpoints` · `280 tests`
+
+**Tech:** `Flutter` `Clean Architecture` `BLoC` `GetIt` `Dio` `RBAC` `PDF`
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id6763802371)
+
+</details>
+
+<details>
+<summary>🩺 <b>Dacttra — Your Health Partner</b> — the patient side</summary>
+
+<br/>
+
+Patients search for doctors and clinics, read ratings, browse specialties, and book an appointment.
+
+**What I built:**
+- Search and filtering over doctors, centres, and specialties
+- Booking against live availability, with the clinic's own timezone
+- A broker for the **WHO ICD-11** code service. No key ships inside the app
+
+**Hardest part:** the same appointment slot is visible to many patients at once. The check that it is still free happens on the server, never on the phone.
+
+**Scale:** `51 endpoints` · `56 tests`
+
+**Tech:** `Flutter` `Clean Architecture` `BLoC` `Dio` `Firebase`
+
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dacttra.platform) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id6756008573)
+
+</details>
+
+<details>
+<summary>⏱️ <b>KronosPay</b> — attendance, rostering, and payroll</summary>
+
+<br/>
+
+Teams clock in and out, managers build rosters, and payroll reads the result. It works on site, remote, and across locations.
+
+**What I built:**
+- **A punch queue that works with no signal.** SQLite holds it, and a background isolate uploads on reconnect
+- Partial-success reconciliation: some punches upload, some fail, and the queue keeps the failures
+- **A trusted time source.** The server clock decides, so the phone clock changes nothing
+- Geofencing where the site radius comes from the server, not the app
+
+**Hardest part:** a punch is a payroll record. It cannot be lost, duplicated, or timed by a clock the user controls.
+
+**Scale:** `50 endpoints` · `94 tests`
+
+**Tech:** `Flutter` `SQLite` `WorkManager` `Geofencing` `Offline-first` `BLoC`
+
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.innovative.kronospay) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id6755912599)
+
+</details>
+
+<details>
+<summary>📐 <b>The engineering standard</b> — written once, followed by the team</summary>
+
+<br/>
+
+**What I wrote:**
+- A **589-line Flutter project blueprint** — layering, naming, folder shape, and what belongs where
+- Team standards for code review, pull requests, naming, and documentation
+- Architecture decision records, so a choice is written down with its reason
+
+The same structure is now used in a repo I do not maintain. That is the part I am proud of.
+
+</details>
+
+---
+
+### Smartware — Senior Flutter Developer
+
+> **Jul 2024 – Present** · Freelance · Remote · Riyadh, Saudi Arabia
+>
+> Maintenance and rebuild on live enterprise apps, then two new apps from scratch
+
+<details>
+<summary>💼 <b>TBS Self Services</b> — employee HR portal</summary>
+
+<br/>
+
+Employees request leave, loans, and expense claims, clock in by location, and download payslips. Managers approve from the same app.
+
+**What I did:** I joined a live codebase, not a new one.
+- Built parts of the request forms and their validation
+- Fixed defects across attendance, requests, and notifications
+- Raised the Android target API and cleaned up what the upgrade broke
+- Improved code health in the areas I touched
+
+**Tech:** `Flutter` `BLoC` `GetIt` `Odoo` `Biometrics` `Localization`
+
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.takamoltbs.selfservices) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/sa/app/id6447533663)
+
+</details>
+
+<details>
+<summary>📊 <b>TBS EPM</b> — portfolio and project reporting (tablet)</summary>
+
+<br/>
+
+Portfolio and programme managers read the dashboards and reports.
+
+Project status · risks · issues · deliverables · budget · scheduling.
+
+Landscape only, built for tablet.
+
+**What I did:**
+- Built parts of the reporting modules and their paging
+- Fixed defects and restored a codebase that no longer ran
+- Improved code health in the areas I touched
+
+**Tech:** `Flutter` `BLoC` `fl_chart` `Syncfusion` `Pagination` `Tablet UI`
+
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.takamoltbs.epm) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/sa/app/id6450037705)
+
+</details>
+
+<details>
+<summary>🚚 <b>Two companion apps</b> — under store review, so no name yet</summary>
+
+<br/>
+
+A customer app and a driver app for one Saudi platform. They share one live order lifecycle. Written from scratch. **In store review now**, so the product stays unnamed here — the engineering does not.
+
+**What I built:**
+- **A token lifecycle state machine.** One refresh at a time, and every waiting request resolves off it
+- **Real-time over SignalR with transport fallback** — WebSockets, then server-sent events, then long polling
+- **Background GPS in its own isolate**, with its own HTTP client. It stops itself when the session ends
+- Live route and distance on the map, biometric lock, and Arabic as the primary language
+
+**Hardest part:** two apps must agree on one order state, over a network that drops. Order status moves through seven steps. Both sides have to land on the same one.
+
+**Scale:** `71 screens` · `120 endpoints` · `~175K lines` · the token service alone has `22 tests`
+
+**Tech:** `Flutter` `SignalR` `Google Maps` `Geolocator` `Background Service` `Clean Architecture` `BLoC`
+
+</details>
+
+---
+
 ### Aqarmap — Senior Flutter Developer
 
-> **Jan 2024 – Present** · Full-time · Hybrid · Cairo, Egypt
+> **Jan 2023 – Mar 2025** · Full-time · Hybrid · Cairo, Egypt
 >
 > Egyptian real estate marketplace · `500K+ downloads` · `200K+ listings` · `~30% faster load times`
 
@@ -128,82 +292,9 @@ CRM for real estate companies and brokers. Agents manage leads, listings, viewin
 
 ---
 
-### Yseer (يسير) — Senior Flutter Developer
+### NamaaIT — Flutter Developer & Team Lead
 
-> **Sep 2025 – Jun 2026** · Part-time · Remote · Riyadh, Saudi Arabia
->
-> Saudi on-demand / logistics platform · Real-time transactions & booking flows
-
-- Delivered a **refund & transactions module**. Mapped the API flows and documented the real-time **WebSocket / Pusher** events
-- Refactored booking and order flows for reliability while keeping a clean, modular architecture
-
-**Tech:** `Flutter` `BLoC` `REST` `WebSocket / Pusher`
-
----
-
-### Smartware — Senior Flutter Developer & Team Lead
-
-> **Sep 2023 – Jan 2025** · Freelance · Remote · Riyadh, Saudi Arabia
->
-> Promoted from developer to consulting & team management · Architecture decisions · Sprint planning
-
-- Managed and mentored the team, running **code reviews, sprint planning, and architecture decisions**
-- Collaborated directly with stakeholders on requirement gathering, feature prioritization, and delivery roadmaps
-
-### Smartware — Flutter Developer
-
-> **Mar 2023 – Aug 2023** · Freelance · Remote · Riyadh, Saudi Arabia
->
-> Enterprise HR & project-management solutions · `Tablet + mobile` · `Clean Architecture from scratch`
-
-<details>
-<summary>💼 <b>Employee Self-Service HR App</b> — Saudi enterprise, under NDA</summary>
-
-<br/>
-
-A self-service HR app for a Saudi organization. Built from scratch, for tablet and mobile.
-
-**What I Built:**
-- Clean Architecture, built from scratch
-- Responsive UI for tablet and mobile
-- Secure auth with **biometric login** (Face ID / Fingerprint)
-- Multi-language (AR/EN) with full **RTL layout**
-
-**Features:** Leave Management · Payroll & Salary Slips · Attendance & Clock In/Out · Document Requests · Internal Communication
-
-**Tech:** `Flutter` `Clean Architecture` `BLoC` `Biometric Auth` `REST APIs` `Secure Storage` `Localization`
-
-_Client under NDA, so no store links._
-
-</details>
-
-<details>
-<summary>📊 <b>Project Management Platform</b> — construction & engineering, under NDA</summary>
-
-<br/>
-
-**Tablet-first** project management platform for construction and engineering companies.
-
-**What I Built:**
-- Tablet-optimized UI that uses the extra screen space
-- Interactive project timeline — drag a bar to move a task's dates
-- Real-time collaboration with **WebSocket live updates**
-- Offline mode for construction-site usage
-- File management for project documents and blueprints
-
-**Features:** Project Timelines · Task Tracking · Resource Allocation · Document Management · Team Collaboration · KPI Reporting
-
-**Tech:** `Flutter` `Tablet UI` `WebSockets` `BLoC` `Custom Widgets` `Chart Libraries` `Offline-First`
-
-_Client under NDA, so no store links._
-
-</details>
-
----
-
-### Software House, Cairo — Flutter Developer & Team Lead
-
-> **Jan 2022 – Dec 2023** · Full-time · Cairo, Egypt
+> **Dec 2021 – Dec 2022** · Full-time · Cairo, Egypt
 >
 > Led a team of 3 · `7 apps shipped` · `4 countries` · Mentored juniors to mid-level · Scalable architecture
 
@@ -286,46 +377,18 @@ _The owner has since taken this one down, so there is nothing left to link._
 
 ---
 
-### EbtasmUAE — Flutter Developer
 
-> **Jun 2021 – Dec 2021** · Freelance · Remote · United Arab Emirates
+### Military Service
+
+> **Nov 2020 – Nov 2021** · Egypt
+
+---
+
+### Freelance — Android Developer (Kotlin)
+
+> **Jul 2020 – Oct 2020** · Freelance · Cairo, Egypt
 >
-> 5 apps shipped · Automotive, retail and kids' products · Scalable state management
-
-<details>
-<summary>🌊 <b>Bhr</b> — Ocean Adventure Platform</summary>
-
-<br/>
-
-Marine services — diving trips, fishing charters, boat rentals, and diving courses.
-
-**What I Built:**
-- Trip booking calendar, with availability checked on the server
-- Equipment rental with stock tracking
-- Interactive map of diving spots
-- Hand-drawn transitions between screens
-
-**Tech:** `Flutter` `Custom Animations` `Google Maps` `REST APIs`
-
-_The owner has since taken this one down, so there is nothing left to link._
-
-</details>
-
-<details>
-<summary>🔨 <b>Other EbtasmUAE apps</b> — auctions, specialty retail, kids e-commerce, car care</summary>
-
-<br/>
-
-Four more apps shipped in this period. Their owners have since taken them down, so there is nothing left to link. The engineering below is what carried over.
-
-- **Real-time auction platform** — live bidding over WebSocket, with auto-bid. Countdown timers run on the **server clock, not the device clock**. Nobody can game a deadline by changing their device time. Escrow holds the payment until the buyer receives the item
-- **Specialty retail (coffee & tea)** — catalog, interactive brewing guides, subscription billing, recommendation engine
-- **Kids e-commerce** — age-based filtering, size guide, gift registry, animation-heavy child-friendly UI
-- **Car care services** — at-home booking with location matching and push updates
-
-**Tech:** `Flutter` `WebSocket` `Real-time` `Custom Animations` `Google Maps` `Payment Integration`
-
-</details>
+> First paid development work. Native Android in Kotlin, before Flutter.
 
 ---
 
