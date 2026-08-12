@@ -25,7 +25,7 @@
 
 > **Ahmed ElFirgany · Software Engineer · Mobile Expert**
 >
-> Senior Flutter Developer.
+> Senior Mobile Software Engineer.
 >
 > 5+ years building iOS and Android apps that shipped. **18+ apps · 600K+ downloads · 5 countries.**
 >
