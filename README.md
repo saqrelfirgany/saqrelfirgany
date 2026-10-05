@@ -2,11 +2,12 @@
      الملف ده هو المصدر. المنشور نسخة منه في github-profile/README.md.
      عدّلت هنا؟ انسخ وادفع من جوه github-profile — كوميت البراند مابيوصلش
      للبروفايل العام. التفاصيل في RULES.md تحت قاعدة ٢.
-     الأرقام كلها من canon.yml. آخر مزامنة: 2026-08-05. -->
+     الأرقام كلها من canon.yml. آخر مزامنة: 2026-10-03 (الهوية الجديدة).
+     البانر: cover-github-1280x400.png جوه ريبو البروفايل نفسه — مصدره brand/assets/brand_kit/covers/. -->
 
 <div align="center">
 
-<img width="1584" height="396" alt="2_cover_LinkedIn_1584x396" src="https://github.com/user-attachments/assets/c147379c-1ac3-465b-a65b-aba06d235dd1" />
+<img width="1280" height="400" alt="Ahmed ElFirgany · Software Engineering Expert" src="./cover-github-1280x400.png" />
 
 <br/><br/>
 
@@ -16,18 +17,17 @@
 <a href="https://x.com/saqrelfirgany"><img src="https://img.shields.io/badge/X-0B1120?style=flat-square&logo=x&logoColor=white&labelColor=0B1120" /></a>
 <a href="https://www.facebook.com/saqrelfirgany"><img src="https://img.shields.io/badge/Facebook-0B1120?style=flat-square&logo=facebook&logoColor=0866FF&labelColor=0B1120" /></a>
 <a href="https://www.instagram.com/saqrelfirgany"><img src="https://img.shields.io/badge/Instagram-0B1120?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=0B1120" /></a>
-<a href="https://www.threads.net/@saqrelfirgany"><img src="https://img.shields.io/badge/Threads-0B1120?style=flat-square&logo=threads&logoColor=white&labelColor=0B1120" /></a>
 <a href="https://wa.me/201025592065"><img src="https://img.shields.io/badge/WhatsApp-0B1120?style=flat-square&logo=whatsapp&logoColor=25D366&labelColor=0B1120" /></a>
 
 </div>
 
 <br/>
 
-> **Ahmed ElFirgany · Software Engineer · Mobile Expert**
+> **Ahmed ElFirgany · Software Engineering Expert**
 >
-> Senior Mobile Software Engineer.
+> Laravel · Flutter · Security · Scalability · Performance
 >
-> 5+ years building iOS and Android apps that shipped. **18+ apps · 600K+ downloads · 5 countries.**
+> 6+ years building apps and systems that shipped. **20+ live apps · 10+ internal systems · 6+ countries.**
 >
 > Clean Architecture and BLoC. A mobile team of three.
 
@@ -62,7 +62,7 @@
 
 ## 💼 Work Experience & Projects
 
-### TechnoIsland — Senior Flutter Developer
+### TechnoIsland — Flutter Developer
 
 > **Apr 2025 – Present** · Full-time · Cairo, Egypt
 >
@@ -156,7 +156,7 @@ The same structure is now used in a repo I do not maintain. That is the part I a
 
 ---
 
-### Smartware — Senior Flutter Developer
+### Smartware — Flutter Developer
 
 > **Jul 2024 – Present** · Freelance · Remote · Riyadh, Saudi Arabia
 >
@@ -226,7 +226,7 @@ A customer app and a driver app for one Saudi platform. They share one live orde
 
 ---
 
-### Aqarmap — Senior Flutter Developer
+### Aqarmap — Flutter Developer
 
 > **Jan 2023 – Mar 2025** · Full-time · Hybrid · Cairo, Egypt
 >
@@ -292,7 +292,7 @@ CRM for real estate companies and brokers. Agents manage leads, listings, viewin
 
 ---
 
-### NamaaIT — Flutter Developer & Team Lead
+### NamaaIT — Flutter Developer
 
 > **Dec 2021 – Dec 2022** · Full-time · Cairo, Egypt
 >
