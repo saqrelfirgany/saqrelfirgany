@@ -11,13 +11,22 @@
 
 <br/><br/>
 
-<a href="mailto:saqrelfirgany@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0B1120" /></a>
-<a href="https://www.linkedin.com/in/saqrelfirgany/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0B1120" /></a>
-<a href="https://dev.to/saqrelfirgany"><img src="https://img.shields.io/badge/dev.to-0B1120?style=flat-square&logo=devdotto&logoColor=white&labelColor=0B1120" /></a>
-<a href="https://x.com/saqrelfirgany"><img src="https://img.shields.io/badge/X-0B1120?style=flat-square&logo=x&logoColor=white&labelColor=0B1120" /></a>
-<a href="https://www.facebook.com/saqrelfirgany"><img src="https://img.shields.io/badge/Facebook-0B1120?style=flat-square&logo=facebook&logoColor=0866FF&labelColor=0B1120" /></a>
-<a href="https://www.instagram.com/saqrelfirgany"><img src="https://img.shields.io/badge/Instagram-0B1120?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=0B1120" /></a>
+<a href="https://saqrelfirgany.github.io/"><img src="https://img.shields.io/badge/Website-0B1120?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0B1120" /></a>
 <a href="https://wa.me/201025592065"><img src="https://img.shields.io/badge/WhatsApp-0B1120?style=flat-square&logo=whatsapp&logoColor=25D366&labelColor=0B1120" /></a>
+<a href="https://www.youtube.com/@saqrelfirgany"><img src="https://img.shields.io/badge/YouTube-0B1120?style=flat-square&logo=youtube&logoColor=FF0000&labelColor=0B1120" /></a>
+<a href="https://www.instagram.com/saqrelfirgany"><img src="https://img.shields.io/badge/Instagram-0B1120?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=0B1120" /></a>
+<a href="https://www.tiktok.com/@saqrelfirgany"><img src="https://img.shields.io/badge/TikTok-0B1120?style=flat-square&logo=tiktok&logoColor=white&labelColor=0B1120" /></a>
+<a href="https://www.facebook.com/saqrelfirgany"><img src="https://img.shields.io/badge/Facebook-0B1120?style=flat-square&logo=facebook&logoColor=0866FF&labelColor=0B1120" /></a>
+<a href="https://x.com/saqrelfirgany"><img src="https://img.shields.io/badge/X-0B1120?style=flat-square&logo=x&logoColor=white&labelColor=0B1120" /></a>
+<a href="https://www.linkedin.com/in/saqrelfirgany/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0B1120" /></a>
+<a href="https://www.behance.net/sa2relfirgany"><img src="https://img.shields.io/badge/Behance-0B1120?style=flat-square&logo=behance&logoColor=1769FF&labelColor=0B1120" /></a>
+<a href="https://medium.com/@saqrelfirgany"><img src="https://img.shields.io/badge/Medium-0B1120?style=flat-square&logo=medium&logoColor=white&labelColor=0B1120" /></a>
+<a href="https://dev.to/saqrelfirgany"><img src="https://img.shields.io/badge/dev.to-0B1120?style=flat-square&logo=devdotto&logoColor=white&labelColor=0B1120" /></a>
+<a href="https://stackoverflow.com/users/23517312/ahmed-elfirgany"><img src="https://img.shields.io/badge/Stack_Overflow-0B1120?style=flat-square&logo=stackoverflow&logoColor=F58025&labelColor=0B1120" /></a>
+<a href="https://saqrelfirgany.itch.io/"><img src="https://img.shields.io/badge/itch.io-0B1120?style=flat-square&logo=itchdotio&logoColor=FA5C5C&labelColor=0B1120" /></a>
+<a href="https://www.producthunt.com/@saqrelfirgany"><img src="https://img.shields.io/badge/Product_Hunt-0B1120?style=flat-square&logo=producthunt&logoColor=DA552F&labelColor=0B1120" /></a>
+<a href="https://contra.com/sa2r_elfirgany_j8tn0z8q"><img src="https://img.shields.io/badge/Contra-0B1120?style=flat-square&labelColor=0B1120" /></a>
+<a href="mailto:saqrelfirgany@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0B1120" /></a>
 
 </div>
 
